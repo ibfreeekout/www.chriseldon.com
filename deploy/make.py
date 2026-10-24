@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # Author: Chris Eldon
 # Email: mail@chriseldon.com
 # Description: This script is used to build some of the various included files that are needed to build a successful website. This is heavily custom and based on how I designed my website (which is very minimal). YMMV if you use this on your own.
-# Last Updated: 10/20/2026
+# Last Updated: 10/23/2026
 # License: MIT License
 ## 
 
