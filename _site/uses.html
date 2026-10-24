@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Uses | Random Musings</title>
+		<!--#include file="/includes/head.html"-->
+    </head>
+    <body>
+		<!--#include file="/includes/header.html"-->
+        <main>
+			<h1>Colophon</h1>
+			<p>What's a colophon you ask? I'm glad you asked, because I also just recently learned what it is myself! I'll let <a href="https://en.wikipedia.org/wiki/Colophon_%28publishing%29">Wikipedia</a> explain it.</p>
+			<p>This site is built entirely from scratch, using basic HTML, extremely minimal CSS, and vim. That's it. Nothing special here. It's currently hosted on a <a href="https://www.linode.com/products/shared/">Linode VPS</a>. For the backing software, it's just Nginx and Let's Encrypt for certificate for HTTPS functionality.</p>
+			<p>For managing the source code, I'm hosting it on <a href="https://sr.ht/">sourcehut</a>. It's a very minimal interface for a reasonable price. I know I'm just scratching the surface of its featureset but it's been nice using software that's purpose-built for a given need, even if it does cost money. Better that than being the product.</p>
+			<p>I also don't use any minification tools to try to squeeze a little bit more compression out of these files. Modern gzip is already incredibly efficient at compressing text-based content, and once I get around to enabling brotli on this server, it'll be even smaller already. Feel free to poke around the source code using View Source in your browser! Fair warning - I'm not a developer by profession, this is purely a hobby. I try to get better at it every day, that's all that matters to me.</p>
+			<h2>Software</h2>
+			<p>As far as Software is concerned, I use a lot of different things depending on if it's work related or personal.</p>
+			<h3>Work</h3>
+			<ul>
+				<li>Operating System: MacOS</li>
+				<li>Browser: Firefox</li>
+				<ul>
+					<li>General workhorse, but will switch browsers as needed when testing customer sites.</li>
+				</ul>
+				<li>Text Editor: vscodium, in the process of migrating to vim</li>
+				<li>Internal Messaging: Webex Teams</li>
+				<li>Customer-facing Messaging: Slack</li>
+				<li>Email: Outlook</li>
+				<li>Database Management: Sequel Ace</li>
+				<li>Passwords: 1password</li>
+				<li>Notes: Obsidian</li>
+			</ul>
+			<h3>Personal</h3>
+			<ul>
+				<li>Operating System: Ubuntu Desktop</li>
+				<ul>
+					<li>I do have a Windows 11 partition for games that don't have great Proton support, as well as flight controllers.</li>
+				</ul>
+				<li>Browser: Firefox</li>
+				<li>Passwords: 1password</li>
+				<li>Text Editor: vim</li>
+			</ul>
+			<h2>Unraid Server</h2>
+			<p>I've been using Unraid for a few years now and it's honestly been incredible. I love how simple it is to build your own little ecosystem. It's easy to go overboard but with proper planning of share setups and container installs, it's fairly straightforward.</p>
+			<p>The items below is a list of the primary containers that I run:</p>
+			<ul>
+				<li>changedetection.io &amp; Browserless</li>
+				<ul>
+					<li>These two I use for website update notifications. Mostly work related to track things that I can't subscribe to over email easily.</li>
+				</ul>
+				<li>Mealie</li>
+				<ul>
+					<li>Meal planner and recipe storage</li>
+				</ul>
+				<li>Paperless-ngx</li>
+				<li>Pihole</li>
+				<li>freshrss</li>
+				<li>Nextcloud</li>
+				<li>Nginx Proxy Manager</li>
+			</ul>
+			<p>Most of my servers are available on my local network through Nginx Proxy Manager by hostname with valid TLS certificate through Let's Encrypt. I don't expose any services to the public internet from home, however, I do run a Wireguard VPN on my Unifi Cloud Gateway Ultra that allows me to access it as if I were home. It also has an added benefit of off-network adblocking thanks to the Pihole setup.</p>
+			<h2>Hardware</h2>
+			<p>There's a lot to put here, so this section will be a work in progress while I gather everything that I have for my personal and work machines, as well as the Unraid server.</p>
+			<h3>Work</h3>
+			<ul>
+				<li>Laptop: M2 16" MacBook Pro</li>
+				<li>Keyboard: Logitech K860</li>
+				<li>Mouse: Logitech Lift</li>
+				<li>Monitor: <a href="https://www.usa.philips.com/c-p/346B1C_27/curved-ultrawide-lcd-monitor-with-usb-c">Philips Curved UltraWide LCD Monitor</a></li>
+				<li>Headphones: Logitech G733</li>
+				<ul>
+					<li>I know these are gaming headphones but they are so dang comfy</li>
+				</ul>
+			</ul>
+        </main>
+		<!--#include file="/includes/footer.html"-->
+	</body>
+</html>

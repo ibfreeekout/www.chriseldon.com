@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Finding Privacy | Random Musings</title>
+        <!--#include file="/includes/head.html"-->
+    </head>
+    <body>
+		<!--#include file="/includes/header.html"-->
+        <main>
+			<h1 id="title">Finding Privacy</h1>
+			<p>After over 15 years of using Google for emails, documents, cloud storage, and a plethora of other services, it's time for a change. It's also a great time in general given the state of the world at the moment.</p>
+			<h2>It's not you... no wait, yeah it is</h2>
+			<p>I've used Google services for well over 15 years, and honestly that's likely still too short. From search, to cloud storage, to email, to even Google Plus (remember that thing?), I used to be a huge Google fanboy. If there was a new service, I had to use it. I've dabbled with using Google Analytics, I used to have AdSense on my YouTube account (yay for making a whole $1 with it), and even used Gemini when it first came out. I thought it was the best thing ever.</p>
+			<p>As I've been online more and have been advancing further in my career, I've been taking a closer look at where my data is going and who is using it. Honestly, it's absolutely shocking to see what level of detail Google has on you, <a href="https://spreadprivacy.com/how-does-google-track-me-even-when-im-not-using-it/">even without</a> using their services directly. The big tech oligarchy was already starting to show its true colors, but given recent… ahem… world events… it's even more in-your-face now. I already deleted my Facebook account years ago, Twitter has been gone for awhile, and I never really did much with other social media platforms (Reddit notwithstanding, that's another story). Google is the hard one though.</p>
+			<picture>
+				<source srcset="https://www.chriseldon.com/images/privacy.webp" type="image/webp">
+				<img src="https://www.chriseldon.com/images/privacy.jpg" alt="A sign that says Privacy Please." loading="lazy" decoding="async" width="480" height="320">
+			</picture>
+			<p><em>Photo by <a href="https://unsplash.com/@jdent">Jason Dent</a> on <a href="https://unsplash.com/photos/a-black-and-white-photo-of-a-sign-that-says-privacy-please-JFk0dVyvdvw">Unsplash</a></em></p>
+			<h3>How do you say goodbye after so long?</h3>
+			<p>Being so ingrained in Google services, it's hard to just stop using all of it. I mean hell, I have a Google Pixel 8 Pro - without installing a new OS, that's like a perfect window into my life.</p>
+			<p>I'm not here to say “if you don't do privacy 100% then don't bother.” Quite the contrary. Going all-in right away is almost assuredly going to result in failure. Also, the all-or-nothing mindset is dumb, just read this <a href="https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/">amazing article</a> from PrivacyGuides.org. Just because you don't completely stop using a service doesn't mean the value that you get from incrementally improving your privacy posture is worthless. One step at a time.</p>
+			<h4>Email is a good place to start</h4>
+			<p>The main thing I started with was email. This is also likely one of the hardest things, especially since email can be notoriously different to host. I've had experience with email server hosting for a number of years now, so I currently self-host my email but I understand that isn't feasible for everyone. There are all sorts of options available though, from <a href="https://proton.me/mail">Proton</a>, <a href="https://mail.tutanota.com/">Tutanota</a>, <a href="https://mailbox.org/en/">Mailbox.org</a>, <a href="https://mxroute.com/">MXRoute</a>, and so much more. I generally prefer mail providers that don't lock you in to their own email clients - tried and true IMAP and SMTP protocols just work and make it trivial to migrate to a new provider with tools like <a href="https://github.com/imapsync/imapsync">imapsync</a>.</p>
+			<p>For my Android device, I used <a href="https://email.faircode.eu/">Fairemail</a>, on my various desktops and laptops, I use Thunderbird. I also use an email masking service called <a href="https://addy.io/">addy.io</a> (edit August 31, 2025: I'm now using <a href="https://www.fastmail.com/">Fastmail</a> for both email hosting and address masking).</p> 
+			<p>This lets you create email masks that hide your real email address from services. This lets you do a few things:</p>
+			<ul>
+				<li>Quickly turn on or off a mask to enable/disable email from that service</li>
+				<li>Tell if a service had a breach or sold your email if you start receiving email from a different service to an existing mask.</li>
+				<li>Enhance your privacy by not handing out your real email, especially if you use your name in your email address or domain.</li>
+			</ul>
+			<p>Where possible, I also use PGP keys to encrypt emails. This doesn't always work as it relies on the receiver having their key published or pre-shared, which can be challenging. One thing I also try to do is use <a href="https://drewdevault.com/2016/04/11/Please-use-text-plain-for-emails.html">plain text emails</a>. On the surface, this doesn't seem like it would affect privacy, but HTML emails are rife with tracking images and other elements that give away if you've opened the email, track whether you've clicked on links, and more. A nice thing with Fairemail is it has options to prevent those things from rendering and tells you when an email has them, and can even strip the tracking parameters from links.</p>
+			<h3>What else can you do?</h3>
+			<p><strong>USE AN AD BLOCKER.</strong></p>
+			<p>No seriously, if you don't have one, get one. Also, try to get off of Chromium browsers if you can. <a href="https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables">Google Chrome has a huge marketshare</a> at 66%, and their open-source Chromium project is the source for a whole slew of other browsers (think Edge, Opera, Vivaldi, Brave, and many more). Meanwhile, Firefox sits at around 2% according to the previous link.</p>
+			<p>I personally use <a href="https://librewolf.net/">Librewolf</a> where I can. Librewolf is a fork of Firefox that has more privacy-focused settings enabled by default, enhanced browser fingerprinting protection, and removes a lot of the baked-in telemetry that Firefox has. Otherwise, it works just like Firefox does - all of the extensions for Firefox that I use work (and try to minimize those as best as you can). I don't use it on my work laptop as I try to use browsers that my customers use as often as possible to ensure we're testing apples to apples.</p>
+			<p>Install uBlock origin (not just uBlock, make sure it's uBlock origin). On Chrome, there's a uBlock Lite extension that's available now that <a href="https://www.theverge.com/news/622953/google-chrome-extensions-ublock-origin-disabled-manifest-v3">Manifest v2</a> is no longer allowed.</p>
+			<h3>Are there search alternatives?</h3>
+			<p>I'm glad you asked! A coworker recently shared a link to <a href="https://kagi.com/">Kagi</a> with me. Kagi is a subscription-based, privacy-first search provider. I was a little stumped at first as to why I would want to pay for searches online, but think about it - searches can be on all sorts of topics and can give a personal insight into you on things you might want to buy, things you may be researching for your health, relationship advice, the list goes on and on. Free search engines use this data to build a profile on you and target advertisements your way. Not Kagi. Kagi tries to filter out the noise and provide meaningful answers to queries and doesn't just show the same 3 websites that won the quarterly SEO battle over and over again. They even have a <a href="https://kagi.com/smallweb">Small Web initiative</a> to try to build awareness for a more personal web again, which I think is wonderful.</p>
+			<p>As I mentioned earlier, privacy is not an all-or-nothing mindset. Take incremental steps to reach your goals and know that along the way, you are slowly working to improve your overall privacy in the long run. I'm sure I'll have more posts on this as I do more myself (I haven't even touched on the topic of cloud storage and my self-hosting adventure), but that's for another time.</p>
+			<p>I'd love to hear about your efforts to improve your online privacy. What sort of tactics have you taken to regain your data agency? Shoot me an email (you can find it on my <a href="https://www.chriseldon.com/contact.html">contact page</a>)!</p>
+        </main>
+		<!--#include file="/includes/footer.html"-->
+	</body>
+</html>

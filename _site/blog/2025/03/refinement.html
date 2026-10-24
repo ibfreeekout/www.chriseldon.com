@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Refinement | Random Musings</title>
+        <!--#include file="/includes/head.html"-->
+    </head>
+    <body>
+		<!--#include file="/includes/header.html"-->
+        <main>
+			<h1 id="title">Refinement</h1>
+			<p>What's the old saying? Don't let perfect be the enemy of good enough? Sometimes you gotta know when to deliver the MVP and when you can spare some time on the details.</p>
+			<p>I've been working a lot on a Python library at work. It's not intended to be released for public consumption, although I may be able to make a version that's stripped of some of the internal pieces to share. The main idea behind the library is to basically allow my team members to quickly build in what I like to call the “plumbing code” to their own scripts.</p>
+			<h2>What do you mean "plumbing code?"</h2>
+			<p>I'm glad you asked! Basically, when I refer to plumbing code, I generally just mean the parts that are consistent across scripts. For reference, the library is essentially the typical Python Requests library, with some authentication components for our APIs, as well as internal rate limiting, error handling, and logging built-in. A common theme we see in our Archticture Review Boards are:</p>
+			<ul>
+				<li>A lack of clear error handling</li>
+				<li>No logging at all, sometimes not even to the console</li>
+				<li>No consideration for the health of our APIs (which are used both internally and by customers :eek:</li>
+			</ul>
+			<p>The main driver behind writing this library was honestly a selfish one. I am constantly asked how we can make calls to our APIs, what are the best ways to interface with them, how do we parse the data, or submit data, etc etc. My goal was to build a tool that gives my coworkers a straightforward way to get past the building block and instead focus on the parts they care about - the business logic, the meat behind the script that actually does the job they want.</p>
+			<h3>What does refinement have to do here?</h3>
+			<p>I'm still relatively new to Python, even though I've been working with it for a number of years now. I'm even newer to Object-Oriented Programming. I'm still coming to grips with that whole paradigm shift but it's made certain things a lot easier to work with now that it's starting to click.</p>
+			<p>I bring up refinement here because I like to take an iterative approach to building scripts. I generally have a defined goal in mind, but I try to build up a <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product</a> first that I can demo. This is important for a few reasons, namely:</p>
+			<ul>
+				<li>It let's me see if there is interest quickly</li>
+				<li>I can quickly shift gears to alternate approaches without having wasted a ton of time</li>
+			</ul>
+			<p>There's also something to be said about seeing progress by releasing bite-sized versions of this library for use internally too. The feedback I've been receiving so far has been excellent. I'm hoping to be able to release it company-wide in the near future, just have a few more things I'd like to refine on it, mostly around error handling.</p>
+			<h3>What else can refining be part of in development?</h3>
+			<p>I'd also consider the expanded learning opportunities that I've had with this sort of tooling to be very beneficial. When I first started this project, I had some ideas about how I would accomplish them but as I got moving further, it became clear that there were other, better ways that I never knew about. I'm still learning more but the idea is fairly simple - I don't know what I don't know, and I won't know until I do know.</p>
+			<p>That sounds super cheesy, what the heck.</p>
+			<p>But anyway, I think it makes sense. The only way to really understand a new tool or feature or language, or anything really, is to dive in and give it a try. Who knows what you'll find out! It's a constant game of refining your existing knowledge with the newly minted shiny snippets and see what works together and what doesn't. It's also given me a chance to look back on other things that I've written to see how I can do better. For example, one of the features I really wanted with this library was a way to tell the user “hey, you should really do a <code>git pull</code> here, there's an update.” Well, I was able to build a very basic feature in that calls a hostname I manage internally that maintains a version status of my scripts. Every time one of the scripts runs, it makes a super lightweight call to this endpoint and compares its own version number in the code with the result from the query and if it doesn' match, it informs the user of the pending changes.</p>
+			<p>I'm here for learning about anything. I love digging into how things work - technical manuals are some great treasure troves of information and generally provide you with more insight into the language than any tutorial will, but only if you are willing to put forth the effort.</p>
+			<p>When I get some spare time, I'll work on parsing out the internal pieces of the library and see if I can do a deeper dive on it in a post here. I think it would be cool - I know it likely won't be a super revolutionary thing but if it helps one person, I'd call it a win.</p>
+			<p>What sort of refinement do you have going on your life? Could be anything, personal, professional, silly. I'd love to hear about it!</p>
+        </main>
+		<!--#include file="/includes/footer.html"-->
+	</body>
+</html>

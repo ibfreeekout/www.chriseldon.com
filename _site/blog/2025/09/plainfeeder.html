@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New Project: Plainfeeder | Random Musings</title>
+        <!--#include file="/includes/head.html"-->
+    </head>
+    <body>
+        <!--#include file="/includes/header.html"-->
+        <main>
+			<h1>New Project: PlainFeeder</h1>
+            <p>A plain text RSS Feed Reader, now a work in progress.</p>
+            <p>Oh boy, just what we needed. ANOTHER RSS feed reader. What can I say, I'm a glutton for punishment I guess. Anyway, I've started work on a new project that I'm affectionately calling PlainFeeder. This is more of a personal project than anything that I plan to do commercially (nor do I think it'll be worth it for anyone to pay for it anyway with how many other amazing RSS readers there are out there). It's more of a fun project for me to work on and (hopefully) not abandon like I usually do. I eventually plan to make it so that people can sign up for it as a free service (and maybe accept donations if I feel it's worthy of it), but it's more for me to explore and expand my own knowledge.</p>
+            <h2>Why plain text?</h2>
+            <p>In case you haven't noticed, this website doesn't really have much in the way of themeing. I mean heck, the current CSS file is measured in bytes, specifically 245 bytes at the time of this writing (<time datetime="2025-09-15">Sep 15, 2025</time>). I've come to appreciate the semantic nature of plain HTML with minimal styling. It's accessible, it loads insanely quickly just about everywhere, and best of all, it's highly readable on just about any device because for the most part, it's responsive by nature. Websites are too big nowadays - between the various libraries that are referenced, unoptimized images, or just plain laziness, the bloat is real.</p>
+            <p>I aim to do something different with PlainFeeder.</p>
+            <h3>What's the goal?</h3>
+            <p>Realistically, the goal is to have fun making something that I think is cool. If even just one person likes it, that'll be enough for me. My overall plan for it is this though:</p>
+            <ul>
+                <li>Create an MVP that is fairly bare-bones:</li>
+                <ul>
+                    <li>Allow RSS Feed submissions</li>
+                    <li>Retrieve feeds on a recurring basis</li>
+                    <li>Select and read feed content in plain text, using just the provided content from the feed posts themselves</li>
+                </ul>
+                <li>Build some sane defaults in for refreshes and feed handling</li>
+                <li>Maintain the minimal/brutalist design methodology and leave the bloat behind</li>
+            </ul>
+            <p>I have a basic framework for how I want things to work figured out in an outline in my Obsidian notes, but now I just need to put pen to paper. Er... fingers to keyboard? Yeah, that one. I do have some key requirements for myself on this one though:</p>
+            <ul>
+                <li>Be a good steward of the web</li>
+                <li>Don't abuse other's services, that's bad</li>
+                <li>Honor caching headers, particularly Last-Modified and ETag responses</li>
+                <ul>
+                    <li>I'll also incorporate Cache-Control and Expires handling as well</li>
+                </ul>
+                <li>Gracefully handle error response codes by slowing down and eventually stopping feed refreshes</li>
+                <li>Plainly advertise via the User-Agent header what the service is and where to find details</li>
+                <ul>
+                    <li>I also plan to include subscriber counts eventually, if/when I allow user sign ups</li>
+                </ul>
+            </ul>
+            <p>Overall, the plan is to write this in PHP. I know it's not a flashy language and there are newer, fancier things available, but I sorta know PHP, at least a little bit. No frameworks for me though, just stuff that I plan on writing myself to achieve this goal. We'll see how far I get along.</p>
+            <h4>How can I stay aware of what's going on?</h4>
+            <p>I don't have any email sign ups or anything for notifications, especially since I don't have any plans <em>right now</em> to accept user sign ups. You can, however, bookmark PlainFeeder (UPDATE <time datetime="2026-07-14">Jul 14, 2026</time>: apparently I let the domain expire for this and it is now registered to something a bit less... reputable lol. Sorry about that!) in your favorite bookmark folder and give it a look. There's pretty much... nothing there right now except a handful of pages describing what the service will eventually be, but that's about it. There's no ability to add feeds, refresh feeds, read them, etc - that's still a work in progress. I hope in a future post I get to explore this a bit more and show off some updates about it!</p>
+        </main>
+        <!--#include file="/includes/footer.html"-->
+    </body>
+</html>
+
+

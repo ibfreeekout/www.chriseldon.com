@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Musings</title>
+    <link>https://www.chriseldon.com/</link>
+    <description>Blog content on www.chriseldon.com</description>
+    <language>en-us</language>
+    <webMaster>mail@chriseldon.com (Chris Eldon)</webMaster>
+    <atom:link href="https://www.chriseldon.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sample Post</title>
+      <link>https://www.chriseldon.com/blog/2025/02/sample-post.html</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/02/sample-post.html</guid>
+      <description><![CDATA[
+<h1>This is just a sample</h1>
+<p>I'm working on rebuilding my site using <a href="https://gohugo.io/">Hugo</a>. It's going to take me some time to get up to speed. Check back soon for more!</p>
+<p>Is this just broken now?</p>
+<h2>Update: August 31, 2025</h2>
+<p>No, not broken, just also not on Hugo anymore</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>PHP</title>
+      <link>https://www.chriseldon.com/blog/2025/02/php.html</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/02/php.html</guid>
+      <description><![CDATA[
+<h1>PHP</h1>
+<p><em>PHP is a cool language</em></p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Renewing My Blog</title>
+      <link>https://www.chriseldon.com/blog/2025/02/renewing-my-blog.html</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/02/renewing-my-blog.html</guid>
+      <description><![CDATA[
+<h1 id="title">Renewing My Blog</h1>
+<p>It's been a long time since I've written a proper blog post. Well, I don't even know what a 'proper' blog post is at this point.</p>
+<h2 id="long-time">A long time coming</h2>
+<p>Is a proper blog post something that is written consistently? Does it need a defined topic? I don't know, but that's something for another day.</p>
+<p>What matters is actually writing something. I don't really plan on having a proper schedule for this, and honestly I don't even know if anyone is going to read this (nor will I know, since I'm not keeping track of any analytics). This is really a place for me to just put my thoughts down. If I have something fun to share, maybe I'll share it here too. In either case, expect to see a not-so-frequent-but-maybe-frequent stream of updates. No promises on quality of content either.</p>
+<p>In the past, I would use this as a place for tracking my workouts and talking about some nutrition items that I've been working on. That's something that I would really liked to get back to. I need to start making my health a priority as I've been putting it off for too long. I'm still young, but won't get any younger so the most I can do now, the better off I'll be in the future.</p>
+<p>Anyway, here's a picture of a cat for fun.</p>
+<picture>
+<source srcset="https://www.chriseldon.com/images/cat.webp" type="image/webp"/>
+<img alt="Photo of a cat with its tongue sticking out." decoding="async" height="422" loading="lazy" src="https://www.chriseldon.com/images/cat.jpg" width="474"/>
+</picture>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Imposter Syndrome</title>
+      <link>https://www.chriseldon.com/blog/2025/02/imposter-syndrome.html</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/02/imposter-syndrome.html</guid>
+      <description><![CDATA[
+<h1 id="title">Imposter Syndrome</h1>
+<p>I've been in tech for over 15 years. Since I started, I've been dealing with imposter syndrome. I've been working through it with various strategies. This is mostly just a vent.</p>
+<h2>Dealing with Imposter Syndrome</h2>
+<p>I started working in tech as an intern at 15 years old for my local school distrct. It was mostly helping them go through e-waste from schools for recycling during the summer. It progressed to helping with new build outs for computer labs and delivering components to on-site technicians as the schools. I did this until graduated high school (but only during the summers, my school time was all tied up thanks to the IB program).</p>
+<p>I think started at the University of Central Florida with an Information Technology major. Everyone felt like they knew so much more than me and asked a lot of smart questions. I felt totally out of my element.</p>
+<p>Then I was recommended for a teaching assistance position for a programming course. This was unexpected, as I was personally struggling with the course work that I was supposed to be helping others with, but I made it work.</p>
+<p>I only this for a year until I got a job at a local web hosting company as a Level 1 helpdesk tech. Mostly just handled calls from customers about issues with their websites. I quickly moved up to Level 2, and then on to the coveted Level 3 role (this one was nice because you got to be in a desk away from the noise of the main helpdesk area to focus on your tickets, as well as not having a phone on your desk).</p>
+<h3>Moving from a job to a career</h3>
+<p>I graduated from the University of Central Florida in 2014 (oof it's been 10 years now since this was written). Whiel I was wrapping up final exams, I interviewed for a bunch of different places, but finally landed the opportunity I have now. The interview process went well, although I was nervous all throughout wondering if I knew enough. Based on some of the previous interviews I had, I was definitely feeling down on myself with how the interviewers were reacting.</p>
+<p>Before I could even get to the airport to head back home that night, I had a phone call with the job offer.</p>
+<p>I was ecstatic, nervous, and ready to move forward all at the same time. A few weeks later, once graduation was complete, I moved on up to Maryland and started the job.</p>
+<p>Boy did I feel out of place again.</p>
+<h3>Being the newbie</h3>
+<p>For the longest time, I was the youngest person on the team. I joined the company was I was 24 years old and at the time, they pretty much never hired people right out of college. I had a lot to prove to my coworkers and quickly finished training and got put onto some pretty heavy accounts. Things were going pretty well, I was starting to get used to working with my new coworkers, settling into the account work.</p>
+<p>About a year in – and pretty much ever since – I've been hit with a heavy dose of imposter syndrome. I've been working through it by keeping notes of what I've accomplished throughout the year, notes of affirmation from customers and coworkers alike, and keeping track of what tasks I'm working on and what I've completed. I still feel like I'm waiting on the shoe to drop all the time though.</p>
+<p>I get anxious about important changes. I get anxious about things that won't make any impact at all. I feel like I have to double- or triple-check my work before handing it off. It's a big weight that I feel like I carry for no reason. I started working here as a Solutions Architect at the bottom of the ladder – today I'm a Senior Solutions Architect II and the third most-tenured person on the team. I've received countless rewards and recognition for the work that I've put in to make my customers and team successful.</p>
+<h3>Why do I feel this way?</h3>
+<p>I've always been a people pleaser. I take on way too much work compared to what I can actually complete in a reasonable time. Somehow I make it work. There were a few years where I legitimately considered quitting and finding a new job because of the stress and burnout I was feeling.</p>
+<p>I'm still working a lot on saying no to work that I don't have adequate time to take on. If fire drills pop up on my accounts, I'll take care of them. Typical day-to-day work though? If I don't have the time, it's gotta go elsewhere or get pushed to the end of the line.</p>
+<p>I used to just say yes to everything, get overwhelmed, get into a cramming mode, and then suffer the consequences later. Things have gotten better, but it's taken effort of saying no. Management has also helped a lot in the past 5 or 6 years as there has been a really strong push in improving our work-life balance, which has been great to see.</p>
+<h3>Where do we go from here?</h3>
+<p>I'm still working on myself – that's probably a lifelong journey to be honest. If I start to feel stressed, I set my work messenger status to Do Not Disturb, shut down my email client, and focus on a single project for an hour or so. This helps to keep distractions away and gives me time to get things done that have been sitting.</p>
+<p>I also still have to improve my own internalized thinking of myself. I'm wanting to get back into lifting weights again. The handful of years where I was consistently lifting weights four times a week and eating a healthy diet is about where I felt the best about myself. I felt strong, like I could take on anything.</p>
+<p>I need to get back to that feeling.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>In defesene of Text Guides</title>
+      <link>https://www.chriseldon.com/blog/2025/02/in-defense-of-text-guides.html</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/02/in-defense-of-text-guides.html</guid>
+      <description><![CDATA[
+<h1 id="title">In defense of Text Guides</h1>
+<p>Text-based guides are just easier to follow along. Video is great in short bursts. When you're heads down learning something new though, I find text guides to be far superior.</p>
+<h2>Wait, you what now?</h2>
+<p>YouTube is a great site, don't get me wrong (except for, you know, the Google of it all). There's endless piles of content available at your fingertips (both good and bad. Ok, mostly bad). Want to learn about a new programming language? Need a refresher on accounting? Want to actually figure out what <a href="https://www.youtube.com/watch?v=Vg-Q7j6DxL0">underwater basket weaving</a> is all about? You got it!</p>
+<p>But you know what? How am I supposed to do the thing that I'm learning how to do if I'm focused on finding the right spot in the video? The 30 second “this is the thing, this is how do it, the end” videos are the exception here (not that many of those really exist - thanks SEO).</p>
+<p>I find it far easier to read through a service manual, technical documentation, or even just a forum post with community-source discussions around a problem. You can search for keywords directly in your browser, bookmark the page, copy the text down to your own devices, hell, even break out the ol' printer (you do have ink, right?) and make a hard copy.</p>
+<p>It gives us time to chew on it, go at our own pace, and get the content that we need. A 40 minute tutorial on something that takes less than 10 minutes to complete if you know all of the steps just seems like a waste of time if you ask me.</p>
+<h3>But isn't video all the rage now?</h3>
+<p>Yeah, it sure is. SEO, advertising, sponsors. All of those are a dime a dozen now with videos. Much like the <a href="https://benhoyt.com/writings/the-small-web-is-beautiful/">small web</a>, good luck finding the niche videos in your searches. Thanks to the popularity of monetizing our hobbies, every video we tend to see now is generally 15 minutes or longer. And since you can't search through videos, good luck finding the thing you needed quickly. Hopefully the video you just clicked on has chapters bookmarked in the description for you to skip to.</p>
+<p>So yeah, to all those tech writers, you're doing great work and just know that we appreciate you. It's not easy work (let me tell you how much I love writing documentation). But it's absolutely essential to being able to easily digest information on our time, not at the advertisers time.</p>
+<p>What are your thoughts on this? Feel free to hit me up about it in my email on my <a href="https://www.chriseldon.com/contact.html">Contact page</a>.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>You Matter</title>
+      <link>https://www.chriseldon.com/blog/2025/03/you-matter.html</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/03/you-matter.html</guid>
+      <description><![CDATA[
+<h1 id="title">You Matter</h1>
+<p>While we deal with the whirlwind that is life, the current political climate, ever-increasing world tensions, and just generally trying to stay alive, remember this.</p>
+<p>You matter.</p>
+<p>Life can be hard. I'm certainly going through some tough time at the moment. It's ok to recognize it for what it is. It sucks.</p>
+<picture>
+<source srcset="https://www.chriseldon.com/images/heart.webp" type="image/webp"/>
+<img alt="A person giving a paper heart to someone else." decoding="async" height="320" loading="lazy" src="https://www.chriseldon.com/images/heart.jpg" width="480"/>
+</picture>
+<p><em>Photo by <a href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/person-reaching-black-heart-cutout-paper-XX2WTbLr3r8">Unsplash</a></em></p>
+<p>I've talked about the struggled with <a href="https://www.chriseldon.com/blog/2025/02/imposter-syndrome.html">imposter syndrome</a> that I deal with. Even being in my field for 15 years, it's still easy to feel like my peers are all smarter than me. Hell, even starting this blog was daunting. There are so many incredible sites out there, it's a little hard to dip my toes in. Nothing that I'm going to put here is groundbreaking - I don't have any public Github projects, I don't have a ton of development experience.</p>
+<p>What I do have, though, is the desire to learn and push forward. Even in dark times, try to make just a little bit of progress. Anything moving forward is a step in the right direction, even if it's hard.</p>
+<p>This <a href="https://manuelmoreale.com/the-cost-of-doing-the-right-thing">post by Manu</a> resonated with me so much. I feel just about everything in that post to my core. I have to keep telling myself that just because I may not be the best at any particular thing, that my opinion and experience still matters.</p>
+<p>This blog of mine is a first step in that direction I'm taking. I'm still learning a ton, and I'm sure things will change as I figure out more of what I want this to be. It's all part of the experience.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Refinement</title>
+      <link>https://www.chriseldon.com/blog/2025/03/refinement.html</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/03/refinement.html</guid>
+      <description><![CDATA[
+<h1 id="title">Refinement</h1>
+<p>What's the old saying? Don't let perfect be the enemy of good enough? Sometimes you gotta know when to deliver the MVP and when you can spare some time on the details.</p>
+<p>I've been working a lot on a Python library at work. It's not intended to be released for public consumption, although I may be able to make a version that's stripped of some of the internal pieces to share. The main idea behind the library is to basically allow my team members to quickly build in what I like to call the “plumbing code” to their own scripts.</p>
+<h2>What do you mean "plumbing code?"</h2>
+<p>I'm glad you asked! Basically, when I refer to plumbing code, I generally just mean the parts that are consistent across scripts. For reference, the library is essentially the typical Python Requests library, with some authentication components for our APIs, as well as internal rate limiting, error handling, and logging built-in. A common theme we see in our Archticture Review Boards are:</p>
+<ul>
+<li>A lack of clear error handling</li>
+<li>No logging at all, sometimes not even to the console</li>
+<li>No consideration for the health of our APIs (which are used both internally and by customers :eek:</li>
+</ul>
+<p>The main driver behind writing this library was honestly a selfish one. I am constantly asked how we can make calls to our APIs, what are the best ways to interface with them, how do we parse the data, or submit data, etc etc. My goal was to build a tool that gives my coworkers a straightforward way to get past the building block and instead focus on the parts they care about - the business logic, the meat behind the script that actually does the job they want.</p>
+<h3>What does refinement have to do here?</h3>
+<p>I'm still relatively new to Python, even though I've been working with it for a number of years now. I'm even newer to Object-Oriented Programming. I'm still coming to grips with that whole paradigm shift but it's made certain things a lot easier to work with now that it's starting to click.</p>
+<p>I bring up refinement here because I like to take an iterative approach to building scripts. I generally have a defined goal in mind, but I try to build up a <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product</a> first that I can demo. This is important for a few reasons, namely:</p>
+<ul>
+<li>It let's me see if there is interest quickly</li>
+<li>I can quickly shift gears to alternate approaches without having wasted a ton of time</li>
+</ul>
+<p>There's also something to be said about seeing progress by releasing bite-sized versions of this library for use internally too. The feedback I've been receiving so far has been excellent. I'm hoping to be able to release it company-wide in the near future, just have a few more things I'd like to refine on it, mostly around error handling.</p>
+<h3>What else can refining be part of in development?</h3>
+<p>I'd also consider the expanded learning opportunities that I've had with this sort of tooling to be very beneficial. When I first started this project, I had some ideas about how I would accomplish them but as I got moving further, it became clear that there were other, better ways that I never knew about. I'm still learning more but the idea is fairly simple - I don't know what I don't know, and I won't know until I do know.</p>
+<p>That sounds super cheesy, what the heck.</p>
+<p>But anyway, I think it makes sense. The only way to really understand a new tool or feature or language, or anything really, is to dive in and give it a try. Who knows what you'll find out! It's a constant game of refining your existing knowledge with the newly minted shiny snippets and see what works together and what doesn't. It's also given me a chance to look back on other things that I've written to see how I can do better. For example, one of the features I really wanted with this library was a way to tell the user “hey, you should really do a <code>git pull</code> here, there's an update.” Well, I was able to build a very basic feature in that calls a hostname I manage internally that maintains a version status of my scripts. Every time one of the scripts runs, it makes a super lightweight call to this endpoint and compares its own version number in the code with the result from the query and if it doesn' match, it informs the user of the pending changes.</p>
+<p>I'm here for learning about anything. I love digging into how things work - technical manuals are some great treasure troves of information and generally provide you with more insight into the language than any tutorial will, but only if you are willing to put forth the effort.</p>
+<p>When I get some spare time, I'll work on parsing out the internal pieces of the library and see if I can do a deeper dive on it in a post here. I think it would be cool - I know it likely won't be a super revolutionary thing but if it helps one person, I'd call it a win.</p>
+<p>What sort of refinement do you have going on your life? Could be anything, personal, professional, silly. I'd love to hear about it!</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Weight Lifting</title>
+      <link>https://www.chriseldon.com/blog/2025/03/weight-lifting.html</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/03/weight-lifting.html</guid>
+      <description><![CDATA[
+<h1 id="title">Weight Lifting</h1>
+<p>Lifting weights is cathartic for me. It's one of the things that let's me completely stop focusing on everything else except the workout and be in the present.</p>
+<h2>Getting Healthier</h2>
+<p>This year I am striving to become healthier. Before COVID, I'd say sometime around 2017-2019, I was an avid lifter. I was generally working out 4 times a week using a program I found on the <a href="https://www.reddit.com/r/fitness">Fitness subreddit</a> of all places. I think it was call the nSuns workout, but I don't fully remember. Anyway, I loved it. During the workouts, it's a time of intense focus - everything else has to get pushed away to focus on moving the weight. At peak, I never broke any records or anything, but I was pretty happy with where I was at. Here are some numbers for what I achieved through two and a half years of consistent workouts:</p>
+<table>
+<thead>
+<tr>
+<th scope="col">Exercise</th>
+<th scope="col">Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Squats</td>
+<td>185 lbs</td>
+</tr>
+<tr>
+<td>Bench Press</td>
+<td>185 lbs</td>
+</tr>
+<tr>
+<td>Deadlift</td>
+<td>285 lbs</td>
+</tr>
+<tr>
+<td>Overhead Press</td>
+<td>90 lbs</td>
+</tr>
+<tr>
+<td>Barbell Rows</td>
+<td>140 lbs</td>
+</tr>
+</tbody>
+</table>
+<p>For context, I was 175 lbs and 6 feet tall at the time (well, I'm still 6 feet tall, but you know, definitely not the same weight).</p>
+<picture>
+<source srcset="https://www.chriseldon.com/images/barbell.webp" type="image/webp"/>
+<img alt="Photo of a barbell resting on the floor with weights on it." decoding="async" height="320" loading="lazy" src="https://www.chriseldon.com/images/barbell.jpg" width="480"/>
+</picture>
+<h3>Why did I stop?</h3>
+<p>One day while doing chest dips, I pulled a muscle in my chest. It took me out of commission for quite awhile and left me in a weird funk. You don't realize how much you rely on your chest muscles until you try to do something as innocuous as pushing yourself out of a chair.</p>
+<p>My wife and I were also in the midst of buying our first house and preparing for a major move, so the added stress on that was eating away at my motivation. Even though lifting weights (or really any type of exercise) is great for your mood, I just didn't want to do it.</p>
+<h3>And then the world ended</h3>
+<p>Well, not so much as ended, but close enough it feels like. The COVID-19 pandemic put me into a proper state of malais. I was not feeling it at all. I'm doing better now overall, still have ups and downs, but managing my mental health has definitely taken a proactive approach to ensure I don't fall back down a few rungs in the ladder.</p>
+<p>Something that has been helping recently has been finding more personal sites to browse and see how other people are doing online. I've been making a conscious effort to stay away from the major social media platforms (and have long-since deleted the big ones, namely Facebook, Instagram, Twitter, and more). I still have a Reddit account but I'm trying to focus on my RSS feed over the Reddit feeds and it's been surprisingly refreshing.</p>
+<h4>None of that last paragraph is related to lifting, Chris</h4>
+<p>Back on topic. For the last 4 weeks, I have been doing the <a href="https://stronglifts.com/">Stronglifts 5x5</a> workout program. This is what I originally started with when I first dipped my toes into weight lifting. The primary program is a beginner-friendly plan that allows you to progressively increase the weight you are lifting. For folks that are rusty like I am, the first few workouts will be tough thanks to <a href="https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness">DOMS</a> but once you get over the hurdle, you should start seeing those numbers soar up for a few weeks. At least until the beginner gains are depleted.</p>
+<p>My goal is not to break any records but rather general fitness and improving my overall health and mental wellbeing. The hardest part about the workouts is showing up - even a bad workout is better than not doing it at all. For now, my focus is on remaining consistent and steadily progress until I get back up to the figures that I initially posted. It's going to take some time - it's a marathon, not a sprint. I am committed to paying close attention to my overall form and listening to my body. If something feels weird, I'm going to pay attention.</p>
+<p>For reference, here are the latest numbers from my most recent workout today:</p>
+<picture>
+<source srcset="https://www.chriseldon.com/images/workout_summary_03032025.webp" type="image/webp"/>
+<img alt="Screenshot of my workout summary from March 4, 2025 in the Stronglifts mobile app." decoding="async" height="320" loading="lazy" src="https://www.chriseldon.com/images/workout_summary_03032025.jpg" width="480"/>
+</picture>
+<h4>I want to hear from you!</h4>
+<p>What type of workouts do you do? Even something as simple as walks around the neighborhood are great ways to get the heart going. I'd love to hear what you do to stay active, feel free to send me an email (details in my <a href="https://www.chriseldon.com/contact.html">contact page</a>)!</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Finding Privacy</title>
+      <link>https://www.chriseldon.com/blog/2025/03/finding-privacy.html</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/03/finding-privacy.html</guid>
+      <description><![CDATA[
+<h1 id="title">Finding Privacy</h1>
+<p>After over 15 years of using Google for emails, documents, cloud storage, and a plethora of other services, it's time for a change. It's also a great time in general given the state of the world at the moment.</p>
+<h2>It's not you... no wait, yeah it is</h2>
+<p>I've used Google services for well over 15 years, and honestly that's likely still too short. From search, to cloud storage, to email, to even Google Plus (remember that thing?), I used to be a huge Google fanboy. If there was a new service, I had to use it. I've dabbled with using Google Analytics, I used to have AdSense on my YouTube account (yay for making a whole $1 with it), and even used Gemini when it first came out. I thought it was the best thing ever.</p>
+<p>As I've been online more and have been advancing further in my career, I've been taking a closer look at where my data is going and who is using it. Honestly, it's absolutely shocking to see what level of detail Google has on you, <a href="https://spreadprivacy.com/how-does-google-track-me-even-when-im-not-using-it/">even without</a> using their services directly. The big tech oligarchy was already starting to show its true colors, but given recent… ahem… world events… it's even more in-your-face now. I already deleted my Facebook account years ago, Twitter has been gone for awhile, and I never really did much with other social media platforms (Reddit notwithstanding, that's another story). Google is the hard one though.</p>
+<picture>
+<source srcset="https://www.chriseldon.com/images/privacy.webp" type="image/webp"/>
+<img alt="A sign that says Privacy Please." decoding="async" height="320" loading="lazy" src="https://www.chriseldon.com/images/privacy.jpg" width="480"/>
+</picture>
+<p><em>Photo by <a href="https://unsplash.com/@jdent">Jason Dent</a> on <a href="https://unsplash.com/photos/a-black-and-white-photo-of-a-sign-that-says-privacy-please-JFk0dVyvdvw">Unsplash</a></em></p>
+<h3>How do you say goodbye after so long?</h3>
+<p>Being so ingrained in Google services, it's hard to just stop using all of it. I mean hell, I have a Google Pixel 8 Pro - without installing a new OS, that's like a perfect window into my life.</p>
+<p>I'm not here to say “if you don't do privacy 100% then don't bother.” Quite the contrary. Going all-in right away is almost assuredly going to result in failure. Also, the all-or-nothing mindset is dumb, just read this <a href="https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/">amazing article</a> from PrivacyGuides.org. Just because you don't completely stop using a service doesn't mean the value that you get from incrementally improving your privacy posture is worthless. One step at a time.</p>
+<h4>Email is a good place to start</h4>
+<p>The main thing I started with was email. This is also likely one of the hardest things, especially since email can be notoriously different to host. I've had experience with email server hosting for a number of years now, so I currently self-host my email but I understand that isn't feasible for everyone. There are all sorts of options available though, from <a href="https://proton.me/mail">Proton</a>, <a href="https://mail.tutanota.com/">Tutanota</a>, <a href="https://mailbox.org/en/">Mailbox.org</a>, <a href="https://mxroute.com/">MXRoute</a>, and so much more. I generally prefer mail providers that don't lock you in to their own email clients - tried and true IMAP and SMTP protocols just work and make it trivial to migrate to a new provider with tools like <a href="https://github.com/imapsync/imapsync">imapsync</a>.</p>
+<p>For my Android device, I used <a href="https://email.faircode.eu/">Fairemail</a>, on my various desktops and laptops, I use Thunderbird. I also use an email masking service called <a href="https://addy.io/">addy.io</a> (edit August 31, 2025: I'm now using <a href="https://www.fastmail.com/">Fastmail</a> for both email hosting and address masking).</p>
+<p>This lets you create email masks that hide your real email address from services. This lets you do a few things:</p>
+<ul>
+<li>Quickly turn on or off a mask to enable/disable email from that service</li>
+<li>Tell if a service had a breach or sold your email if you start receiving email from a different service to an existing mask.</li>
+<li>Enhance your privacy by not handing out your real email, especially if you use your name in your email address or domain.</li>
+</ul>
+<p>Where possible, I also use PGP keys to encrypt emails. This doesn't always work as it relies on the receiver having their key published or pre-shared, which can be challenging. One thing I also try to do is use <a href="https://drewdevault.com/2016/04/11/Please-use-text-plain-for-emails.html">plain text emails</a>. On the surface, this doesn't seem like it would affect privacy, but HTML emails are rife with tracking images and other elements that give away if you've opened the email, track whether you've clicked on links, and more. A nice thing with Fairemail is it has options to prevent those things from rendering and tells you when an email has them, and can even strip the tracking parameters from links.</p>
+<h3>What else can you do?</h3>
+<p><strong>USE AN AD BLOCKER.</strong></p>
+<p>No seriously, if you don't have one, get one. Also, try to get off of Chromium browsers if you can. <a href="https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables">Google Chrome has a huge marketshare</a> at 66%, and their open-source Chromium project is the source for a whole slew of other browsers (think Edge, Opera, Vivaldi, Brave, and many more). Meanwhile, Firefox sits at around 2% according to the previous link.</p>
+<p>I personally use <a href="https://librewolf.net/">Librewolf</a> where I can. Librewolf is a fork of Firefox that has more privacy-focused settings enabled by default, enhanced browser fingerprinting protection, and removes a lot of the baked-in telemetry that Firefox has. Otherwise, it works just like Firefox does - all of the extensions for Firefox that I use work (and try to minimize those as best as you can). I don't use it on my work laptop as I try to use browsers that my customers use as often as possible to ensure we're testing apples to apples.</p>
+<p>Install uBlock origin (not just uBlock, make sure it's uBlock origin). On Chrome, there's a uBlock Lite extension that's available now that <a href="https://www.theverge.com/news/622953/google-chrome-extensions-ublock-origin-disabled-manifest-v3">Manifest v2</a> is no longer allowed.</p>
+<h3>Are there search alternatives?</h3>
+<p>I'm glad you asked! A coworker recently shared a link to <a href="https://kagi.com/">Kagi</a> with me. Kagi is a subscription-based, privacy-first search provider. I was a little stumped at first as to why I would want to pay for searches online, but think about it - searches can be on all sorts of topics and can give a personal insight into you on things you might want to buy, things you may be researching for your health, relationship advice, the list goes on and on. Free search engines use this data to build a profile on you and target advertisements your way. Not Kagi. Kagi tries to filter out the noise and provide meaningful answers to queries and doesn't just show the same 3 websites that won the quarterly SEO battle over and over again. They even have a <a href="https://kagi.com/smallweb">Small Web initiative</a> to try to build awareness for a more personal web again, which I think is wonderful.</p>
+<p>As I mentioned earlier, privacy is not an all-or-nothing mindset. Take incremental steps to reach your goals and know that along the way, you are slowly working to improve your overall privacy in the long run. I'm sure I'll have more posts on this as I do more myself (I haven't even touched on the topic of cloud storage and my self-hosting adventure), but that's for another time.</p>
+<p>I'd love to hear about your efforts to improve your online privacy. What sort of tactics have you taken to regain your data agency? Shoot me an email (you can find it on my <a href="https://www.chriseldon.com/contact.html">contact page</a>)!</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Relaxing</title>
+      <link>https://www.chriseldon.com/blog/2025/03/relaxing.html</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/03/relaxing.html</guid>
+      <description><![CDATA[
+<h1 id="title">Relaxing</h1>
+<p>Things are hectic in the world. Make sure you find some time to unwind doing something you love. I've had a pretty rought start to the year so far myself. I won't go into what's been going on here, but suffice to say, I really hope I'm on the upswing. I think so, but we'll see.</p>
+<p>I just wanted to take a moment to point out that it's important to find some time to relax a bit. I've been slowly finding myself gravitating away from devices and more to physical things. I'm starting to prefer taking physical notes over reaching for my phone first, reading physical books versus ebooks, and just enjoying working on things that I can see and feel. None of this is to say I plan on getting out of the tech field, but I do think that I need to expand my hobbies out from solely online things.</p>
+<p>Lately, there are two main things that I do to unwind. Those are lifting weights and doing yard work. I've even got to wearing the “dad shoes” that all of our dads would wear when mowing the grass - no lie, they're super comfy.</p>
+<p>Weight lifting has been a huge boost for me. I'm still only a couple months into it again, but there's something cathartic about being able to shut off the outside world, kick on some <a href="https://open.spotify.com/playlist/6QJ9GOnfC8j5TrCtlz948M">heavy jams</a>, and focus on performing the movements with proper form. I still have a ways to go before I get back to my previous lifting numbers, but I'm not in any rush. The important thing is paying attention to what my body is telling me.</p>
+<p>Yard work is another one of those things that just has to get done. It doesn't always have to be seen as a chore though. It's a tough mindset to get out of though. I used to hate doing it, but when I started looking at the bigger picture, I found that I enjoyed the process more. I don't have the best looking yard in the neighborhood, nor do I want to. I want it to look good for us, to be a place where we can express ourselves. Don't get me wrong, there are some parts of yard maintenance that I don't like - trimming hedges and pulling weeds aren't exactly my idea of fun - but it's all part of the process. It's another one of those things where if you let yourself get lost in the activity, you can actually find it to be quite peaceful and fulfilling. Watching something you worked on flourish over time can be exciting.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Simplify</title>
+      <link>https://www.chriseldon.com/blog/2025/08/simplify.html</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/08/simplify.html</guid>
+      <description><![CDATA[
+<h1 id="title">Simplify</h1>
+<p>Over the past year or so, I've been making an intentional effort to simplify things in my life. Not all of it has been successful, but as with most things in life, it's a journey. There are ups and downs, but what matters is whether forward progress is being made to reach those goals.</p>
+<p>A lot of the things that I've been trying to simplify revolve around the way that I use tech. The key thing to keep in mind with all of this though is that - just like with most things in life - it's a marathon, not a sprint. None of these things will change overnight, nor would I recommend it. The best way in my experience to effect change on oneself is to dip your toes in slowly and gradually. Just like with any habit, it takes commitment and intentional action over an extended period of time to adjust. We're creatures of habit after all.</p>
+<h2 id="contradiction">A contradiction</h2>
+<p>And while saying that.... I'm also part hypocrite. One of the things that I am working on changing is using vim for more text editing and less bespoke code editors. I made a switch from VS Code to vscodium a few weeks back and figured I would instead take the plunge into learning the inner workings of vim more. Especially after reading <a href="https://www.ssp.sh/brain/vim-language-and-motions">this post by Simon Späti</a>, it really inspired me to give it a whirl. I've used it for basic things and know of *some* commands (like, saving, moving the cursor, and most importantly, exiting vim).</p>
+<p>To really get into the flow of it and force myself to learn it, I'm rewriting this entire website using vim exclusively. That might sound daunting to some but I'm enjoying the challenge and realizing that there are a LOT of cool features about vim.</p>
+<h3 id="simple-is-good">Simple is good</h3>
+<p>As part of this website redesign, I'm also shifting away even further from some of the tools I was using previously. When I first wrote this website, I was using WordPress. There's nothing wrong with it, it's just a lot. It's never been simpler to start a WordPress website though, and it's only getting easier. The issue I had was it's not as straightforward to migrate to different sites, it requires a lot of features to be installed, and self-hosting it can be a little bit of a pain - not in a difficult kind of way but more of an "ugh I really don't want to do this" kind of way.</p>
+<p>So then I moved toward <a href="https://gohugo.io/">Hugo</a>. Hugo is a Static Site Generator written in Go that allows you to write your content in Markdown and it converts everything into plain HTML and CSS, which can then be uploaded to any host in the world. This was cool to learn, and I really enjoyed working with it. I can't place my finger on it, but I wanted something different.</p>
+<p>In going with the theme of simplifying, I'm now in the process of rewriting the site (while still using vim exclusively) using just your basic HTML and some minimal CSS. I don't plan on incorporating JavaScript at all (this is a fairly vanilla blog at the end of the day). You'll even notice I'm not even minifying content - if you see something you like or want to see the inner workings of the pages in your browser, go ahead and right-click and hit View Source. I'll wait.</p>
+<h3 id="but-why">But why do this</h3>
+<p>A big part of this is to be intentional with tech, like I've said before. Here lately, I've had a feeling that nothing about tech nowadays is good enough. It always has to advance something.</p>
+<p>Data collection.</p>
+<p>Money.</p>
+<p>Squashing competitors.</p>
+<p>There always has to be something more. Nothing can ever just be. I used to be all-in on the internet-connected everything. I thought it was the coolest thing in the world. Then devices would go end-of-life and conveniently, the only way to restore that functionality would be to buy the new model.</p>
+<p>The same can be seen with the yearly release and upgrade pushing that smartphone manufacturers do, at least as an example. There's nothing inherently wrong with the annual release cycle per-se. The issue I take with it is the promotion of constantly trading in your old device to get a new one. I fell into this trap before. I'd see the new shiny, would want the new shiny, and would buy the new shiny and discard the old one. Especially with the advancements in hardware today, most year-to-year changes are minimal at best.</p>
+<p>I also <em>REALLY</em> don't like the constant push for more and more AI tech in my phones.</p>
+<p>So to the why. Really, it just has to do with my general feeling of losing interest in tech. Getting back in touch with the physical world has been wonderful. I've been enjoying my walks outdoors more (at least, when it's not a million degrees outside), I've been finding much more joy in reading physical books over my Kindle, and writing with a pen and paper has been wonderful, even for things as simple as jotting something down quickly in a meeting. I still use tech*, I'm just more intentional about it now.</p>
+<p><em>* I stay away from using AI for the most part. Sure, it probably has its uses and I'll probably get left behind eventually, but I have no qualms not using it.</em></p>
+<h3 id="rambling">You went and rambled again, Chris</h3>
+<p>Yeah I'm good at that. This turned out a little differently than I had in my head (and also compared to my first draft..... which was in vim..... which I lost lol). I've got a lot of work to do to really get things down to more simpler terms. I could write all sorts of posts (and probably will) chronically my journey on this. For example, I'm trying to get back on good terms with cooking (recent months has seen that failing but the attempt is what matters), and in doing so, getting to better foods and overall kitchen utensils that will better serve me in the long run. There's a whole subject matter on this topic that I can get into, but I'll save that for another time.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Review: Split Fiction</title>
+      <link>https://www.chriseldon.com/blog/2025/09/split-fiction.html</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/09/split-fiction.html</guid>
+      <description><![CDATA[
+<h1 id="title">Review: Split Fiction</h1>
+<aside>
+<h5>Rating: 4 out of 5 stars</h5>
+</aside>
+<p>Recently, my wife and I bought <a href="https://store.steampowered.com/app/2001120/Split_Fiction/">Split Fiction</a> for the Xbox (yes I know I linked the Steam page, fight me). We were huge fans of It Takes Two, which was made by the same developer (Hazelight Studios), so we had high hopes going into this game.</p>
+<p>Let's just say, what a game.</p>
+<aside>
+<p>I'll try to keep this as spoiler-free as possible, but will be sharing some details from the opening of the game to set the stage.</p>
+</aside>
+<h2>Basic Premise</h2>
+<p>As with It Takes Two, Split Fiction is another forced co-op title that relies on you and your partner working together to solve all sorts of puzzles and challenges to continue the story. This time, you play as Mio and Zoe, who are both new authors looking to get published for the first time. They are both on their way to what they think is a pitch meeting to try to sell their work, but instead are put into a unique situation where they are entering their own works.</p>
+<p>I won't go too much further into this, other than to say the world building in this game is top notch. You can really tell the developers poured their full imaginations into the various worlds that they crafted. As the name implies (as does the cover of the game), you jump between different worlds, some leaning to sci-fi, others in fantasy, and some get.... weird (in the most hilarious ways). We laughed so much while playing this game, but it also was a great experience just figuring out the puzzles.</p>
+<p>There was only one puzzle that we felt wasn't quite intuitive throughout the entire game, but everything else was something that can be worked through by putting your heads together and coming to a solution. The game controls are very fluid and the dynamic contexts that appear on screen work well. Sometimes it was difficult to tell the characters apart if the screen zoomed out a lot but they did try to split things by color fairly well.</p>
+<p>We played the game on an Xbox Series X console and it ran like a dream in split screen co-op mode. It was very well optimized and the scenery in the various worlds looks amazing. This title would be very easy for someone that doesn't play games a lot to pick up and play too - it doesn't have a crazy, in-your-face interface, the controls are very intuitive, and the styles and interactions within the worlds were well researched and developed.</p>
+<h3>Nitpicks</h3>
+<p>I do have a few nitpicks with the game, but most of them don't detract from our enjoyment. At the beginning, we did think that some of the character dialogue was a bit... much. Not that there was a lot of it, but they just didn't really seem all that realistic. The character dynamics smooth out a lot as the game progresses but it was a bit of a rocky start. I also wish there were a couple puzzles that had some alternate solutions. It felt very linear at times, but honestly I feel that's made up for by the game having some very interesting puzzles that are well thought out - they are definitely worthy of the praise they receive.</p>
+<h3>Honorable Mention: Couch Co-op</h3>
+<p>One of the great things about this title is that it is definitely built around the couch co-op mindset. The screen seamlessly would shift from full split screen to a blended screen as needed depending on the perspective. This next bit is absolutely a spoiler, so expand if you dare:</p>
+<details>
+<summary>Spoiler</summary>
+                Near the end of the game, there is a moment where the worlds sort of shift and one player is in a sci-fi world while the other is in a mirrored fantasy world. This was an <em>incredible</em> experience and we were awestruck at how well this worked. It was incredibly trippy but we loved every moment of it.
+            </details>
+<h2>Final Words</h2>
+<p>This game took us about 11.5 hours to complete from start to finish. I would rate this as a 4 star title, and would probably bump this up if you like co-op titles (which, you HAVE to play this with someone, you cannot play this game in single player). Some of the character interactions and dialogue in the first hour or so of the game felt a little forced, but like I mentioned, this is smoothed over as you get to know the characters better. A really nice thing about this game though is that only one person has to buy a copy of the game - the friend version is a free download and allows you to play with someone else without both people having to own a copy of it. This is a great way to handle this in my opinion.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Learning Vim</title>
+      <link>https://www.chriseldon.com/blog/2025/09/learning-vim.html</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/09/learning-vim.html</guid>
+      <description><![CDATA[
+<h1 id="title">Learning Vim</h1>
+<p>For the longest time, I've used your typical text/code editors. Think things like <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)">Atom (fare thee well)</a>, VS Code, vscodium, Sublime, Notepad++. If you can name it, I've probably considered it or tried it in some form. They're very easy to use, have a ton of features (most of which I've never even bothered to learn), and are fairly easy to get started with and customize out of the box. But I've been yearning for something... different.</p>
+<p>Oh yeah, Vim is a bit different.</p>
+<h2>But it's more same-y than you'd think</h2>
+<p>Everyone jokes that once you enter vim, you can't leave (and mostly because no one knows what <code>:q</code> does). Honestly, I've been using it exclusively for the last week and I can see why. When you first start out, it seems daunting and completely alien. "Wait, I can't just... type? I have to press i first to enter text? That doesn't make any sense!" Wait until you find out that Vim also has it's own concept of windows and tabs!</p>
+<p>I was inspired by <a href="https://www.ssp.sh/brain/vim-language-and-motions/">this post</a> to give this a try. I figured I'd try it out for a couple of hours, get annoyed, and then move on with my life. What I instead came out with was a renewed appreciation for how powerful this editor is. It's not going to win any UI awards (can you even consider it as having a UI in a traditional sense?) and I don't know if I'd call it intuitive, but once you learn how things work, to me it makes sense.</p>
+<h3>Digging in</h3>
+<p>Obviously, only being a week into it, I've got a lot to learn about it. I've picked up some of the big things by using the <code>:vimtutor</code> tutorial. This was honestly an incredible thing that I wish I knew about years ago. It takes roughly 30 minutes and is a built-in, step-by-step tutorial on how to use some of the most common features and teaches you how to move forward with the help docs, among other things. And yes, the first thing it teaches you is how to exit the editor. But really, some of the commands it taught me were really cool and helped to break down what seemed like complex commands into what they really are: a grammar language.</p>
+<h3>Now I have to learn grammar again?!?</h3>
+<p>It's closer than you'd think, but there's not much to it, at least for what will get you most of the way through. I don't think it's really feasible to learn everything in a short period of time, and you really need to practice at it to get it right, but here are some of highlights for me:</p>
+<ul>
+<li>You typically interact with things like nouns and verbs</li>
+<li>For the most part, verbs act as modifiers to what the noun is selecting</li>
+<li>For example, the noun "w" (which used by itself will move you to the start of the next word) can be modified with "dw", which will delete everything from your cursor to the next word while in normal mode.</li>
+<li>This can be modified further with numbers, such as "d3w", which will delete the next three words from your cursor.</li>
+<li>These nouns and verbs are generally consistent, it's more a matter of how you combine them to see how they interact with one another.</li>
+</ul>
+<p>There are also a bunch of other movement commands, commands to copy (or rather, yank), paste, and even the ability to run shell commands directly in vim. The possibilities are really endless.</p>
+<h3>Where to from here?</h3>
+<p>I am by no means an expert - or even an amateur for that matter - when it comes to Vim. I still strongly consider myself to be a complete novice, but I can see the power behind it for real. There are a bunch of things I'd like to look at with my .vimrc file (which is really just a personal config file for how I'd like my Vim experience to be). I know the more I use it, the more I'll become comfortable and expand my own knowledge of the built-in commands too. There are even plugins that I've yet to explore - I'd like to get to know the base program better first before I dip my feet in there.</p>
+<h4>Recommend Resources</h4>
+<p>I've also found a few resources that have helped me along the way. I've already mentioned <code>:vimtutor</code>, but there are some others that I'd like to share below too:</p>
+<ul>
+<li><a href="https://vimhelp.org/usr_toc.txt.html">vimhelp.org</a></li>
+<ul>
+<li>Basically the Vim :help text, but on a website</li>
+</ul>
+<li><a href="https://vim-adventures.com/">Vim Adventures</a></li>
+<ul>
+<li>A browser-based game that teaches you how to use Vim while playing! A really neat concept, I'd like to buy a license for it at some point.</li>
+</ul>
+<li><a href="https://vim.rtorr.com/">Vim cheatsheet</a></li>
+<ul>
+<li>It's in the name, not much more to say there. Handy reference.</li>
+</ul>
+</ul>
+<p>If you have any useful resources or tips that you'd like to give me, feel free to shoot me an email (found on my <a href="https://www.chriseldon.com/contact.html">Contact page</a>).</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>New Projfect: PlainFeeder</title>
+      <link>https://www.chriseldon.com/blog/2025/09/plainfeeder.html</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/09/plainfeeder.html</guid>
+      <description><![CDATA[
+<h1>New Project: PlainFeeder</h1>
+<p>A plain text RSS Feed Reader, now a work in progress.</p>
+<p>Oh boy, just what we needed. ANOTHER RSS feed reader. What can I say, I'm a glutton for punishment I guess. Anyway, I've started work on a new project that I'm affectionately calling PlainFeeder. This is more of a personal project than anything that I plan to do commercially (nor do I think it'll be worth it for anyone to pay for it anyway with how many other amazing RSS readers there are out there). It's more of a fun project for me to work on and (hopefully) not abandon like I usually do. I eventually plan to make it so that people can sign up for it as a free service (and maybe accept donations if I feel it's worthy of it), but it's more for me to explore and expand my own knowledge.</p>
+<h2>Why plain text?</h2>
+<p>In case you haven't noticed, this website doesn't really have much in the way of themeing. I mean heck, the current CSS file is measured in bytes, specifically 245 bytes at the time of this writing (<time datetime="2025-09-15">Sep 15, 2025</time>). I've come to appreciate the semantic nature of plain HTML with minimal styling. It's accessible, it loads insanely quickly just about everywhere, and best of all, it's highly readable on just about any device because for the most part, it's responsive by nature. Websites are too big nowadays - between the various libraries that are referenced, unoptimized images, or just plain laziness, the bloat is real.</p>
+<p>I aim to do something different with PlainFeeder.</p>
+<h3>What's the goal?</h3>
+<p>Realistically, the goal is to have fun making something that I think is cool. If even just one person likes it, that'll be enough for me. My overall plan for it is this though:</p>
+<ul>
+<li>Create an MVP that is fairly bare-bones:</li>
+<ul>
+<li>Allow RSS Feed submissions</li>
+<li>Retrieve feeds on a recurring basis</li>
+<li>Select and read feed content in plain text, using just the provided content from the feed posts themselves</li>
+</ul>
+<li>Build some sane defaults in for refreshes and feed handling</li>
+<li>Maintain the minimal/brutalist design methodology and leave the bloat behind</li>
+</ul>
+<p>I have a basic framework for how I want things to work figured out in an outline in my Obsidian notes, but now I just need to put pen to paper. Er... fingers to keyboard? Yeah, that one. I do have some key requirements for myself on this one though:</p>
+<ul>
+<li>Be a good steward of the web</li>
+<li>Don't abuse other's services, that's bad</li>
+<li>Honor caching headers, particularly Last-Modified and ETag responses</li>
+<ul>
+<li>I'll also incorporate Cache-Control and Expires handling as well</li>
+</ul>
+<li>Gracefully handle error response codes by slowing down and eventually stopping feed refreshes</li>
+<li>Plainly advertise via the User-Agent header what the service is and where to find details</li>
+<ul>
+<li>I also plan to include subscriber counts eventually, if/when I allow user sign ups</li>
+</ul>
+</ul>
+<p>Overall, the plan is to write this in PHP. I know it's not a flashy language and there are newer, fancier things available, but I sorta know PHP, at least a little bit. No frameworks for me though, just stuff that I plan on writing myself to achieve this goal. We'll see how far I get along.</p>
+<h4>How can I stay aware of what's going on?</h4>
+<p>I don't have any email sign ups or anything for notifications, especially since I don't have any plans <em>right now</em> to accept user sign ups. You can, however, bookmark PlainFeeder (UPDATE <time datetime="2026-07-14">Jul 14, 2026</time>: apparently I let the domain expire for this and it is now registered to something a bit less... reputable lol. Sorry about that!) in your favorite bookmark folder and give it a look. There's pretty much... nothing there right now except a handful of pages describing what the service will eventually be, but that's about it. There's no ability to add feeds, refresh feeds, read them, etc - that's still a work in progress. I hope in a future post I get to explore this a bit more and show off some updates about it!</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>https://www.chriseldon.com/blog/2025/09/reading.html</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/09/reading.html</guid>
+      <description><![CDATA[
+<h1 id="title">Reading</h1>
+<p>Over the last year or so, I've read more books than I have in quite a long time. To be clear, none of these books are Earth-shatterig masterpieces, but all the same, they let my mind wander and explore new worlds. I've been trying to keep this spark alive and have found that moving back to physical books has been wonderful so far. I'm planning on making a new page on my website that has a listing of the books I've read and if I feel like it, even reviews of them (likely short, but still fun).</p>
+<h2>What do you like to read?</h2>
+<p>There are endless possibilities with books for just about anything you could ever want. I've read a few self-help books and other nonfiction, but I most definitely prefer reading fiction when given a choice. There's something about being able to completely immerse myself in a new world and see the characters through their own points of view that is exciting to me, esepcially if I really get involved in the book. My favorite genres are science fiction and thrillers. I'm a particular fan of Stephen King (but I'm slightly ashamed to admit that I've not yet read most of his books). I also quite like military thrillers, think Tom Clancy and Stephen Coonts. The Hunt for Red October is an incredible book (and the movie was really well done too), as is Flight of the Intruders. I don't have much of a requirement on a specific length of book either - if the premise sounds interesting enough to me, I'll read it!</p>
+<p>I've got a long list of books that I need to read still for sure. My bookshelf is definitely packed with books that I've yet to read compared to books that I've completed. I'm a bit of a hoarder/collector in that point of view - I tend to buy new books that I think will be interesting well before I even have a chance to consider putting them into rotation. I'm trying to make a concerted effort to finish more books on my shelf though, but I also want to be mindful that there's no contest. Reading more books than others doesn't matter - what matters is enjoying the worldbuilding, the characters, the "what ifs" that you ask yourself while thinking where the story will go next. Letting your imagination get into the world and feel as if the characters are right there with you is what I really enjoy. Good books for me make me want to keep turning the page. I don't feel bad putting a book down if I'm not enjoying it. No sense in continuing it if I don't have an interest, although I honestly can't even remember the last time I stopped reading a book because I wasn't getting into it.</p>
+<h2>Why physical books over an ereader?</h2>
+<p>I mentioned earlier that I've been enjoying physical books more than my ebooks lately. To me, there's something about the physical nature of them, being able to feel the book and turn the physical pages. It's cozy and helps me disconnect a bit more. Modern ereaders are definitely superior to what they used to be and you can hold entire libraries in their digital storage, but I definitely prefer the paper books myself. Part of it feels like it's more intentional for me too, which is something else that I've been trying to strive for this year. I don't know how to describe it, but I just feel better reading a physical copy of a book.</p>
+<p>There's also the concept of ownership. Once purchased, the physical book is mine. I can do what I want with it, no one can take it from me, alter it, anything. I can lend it to friends and family, store it in a safe place, tear it apart, you name it. Not so with most ebooks. I'm talking mostly about ebooks purchased on places like Amazon with their Kindle readers - you are purchasing a license for the book, which can be revoked at any time in the future. You don't own that book, you own a license to read the book. If the Kindle service were to go away, all of the books you purchased (of which I also have a fair number) would go away too - assuming they don't have a fallback disaster plan to release them from DRM.</p>
+<h3>Be cozy</h3>
+<p>There's something idyllic about a warm drink, a comfy chair, and a nice book. One of my recent favorites that is about the coziest book I've ever read is <a href="https://www.thriftbooks.com/w/a-psalm-for-the-wild-built_becky-chambers/26924961/">A Psalm for the Wild-Built</a> by Becky Chambers. This was a very quick read about a Monk who sets off to build a new life to find their purpose, set in a world where robots gained self-awareness and stopped their work to build their own lives, separate from humans. Summarizing this book into this singular sentence feels a bit disingenuous, but take it from - this book is a treat and will get you thinking about your own purpose and what it means to be yourself. From the cover art to the descriptions of the characters and sets around the world, there is a quaint yet vast world to uncover in this short novel - which has a sequel available that I need to read too!</p>
+<p>That brings me to where I'll leave you, with one last thought. I've been recently purchasing my books from <a href="https://www.thriftbooks.com/">ThiftBooks</a>, an online bookstore that allows users to sell their used books for credit on the website. It has a wide collection of books, both new and used, that are generally cheaper than other equivalent online services that I've already named here. I left the link to their website plain, although they do have a referral program. If you are interested in signing up for an account and would like to use my referral link, feel free to email me and I'll share it with you - I don't quite like sharing referral links as if they were the actual link since they feel spammy to me. Other excellent places to find books would be your local library - seriously they need you and offer so much more than just books to check out - as well as local used book stores.</p>
+<p>I'd love to hear your book recommendations and what you like to read. Send me an email with the link below if you'd like to chat!</p>
+<p><a href="mailto:mail@chriseldon.com?subject=Reply to: Reading">Reply to this post</a></p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Do it for fun</title>
+      <link>https://www.chriseldon.com/blog/2025/09/do-it-for-fun.html</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/09/do-it-for-fun.html</guid>
+      <description><![CDATA[
+<h1 id="title">Do it for fun</h1>
+<p>It's easy to get caught up in the daily grind. Do you have a hobby that people keep telling you that you should monetize? Here's a novel idea - just keep doing it for fun. Hobbies don't have to be all about earning money. It's enough if you just enjoy the time spent doing the thing, whatever that is.</p>
+<p>As I mentioned in my <a href="https://www.chriseldon.com/blog/2025/09/reading.html">last post</a>, I've been getting back into reading physical books, but I also really like playing video games, and building Lego sets. I've also been enjoying the process of building <a href="https://www.plainfeeder.com">PlainFeeder</a>, not there's much there yet (although I do have it at least capable of ingesting RSS feeds now, so that's nice!). I don't do any of these things with the goal of earning money off of them. Honestly - and this applies doubly so for the Lego sets - most of them cost me money to do them. I do them anyway because I get enjoyment out of them. I don't need another job to keep track of on top of my daily work. That's stressful enough as it is.</p>
+<h2>Be bad at things</h2>
+<p>This is also going to sound a little counterproductive, but you should also try to be bad at things. I know that sounds weird but hear me out. No one is an expert just starting out - everything takes practice and learning to build up experience to get better at it. When I say be bad at things, I'm saying try new things, look at them from different angles, experiment. I get the most enjoyment out of projects when I run into new obstacles to work through. The feeling of accomplishment and knowing that I just learned something new that I can use in the future is honestly kind of satisfying. You also don't even have to get good at things to enjoy them. For example, I recently went bowling with some friends of mine - I'm absolutely terrible at it. I like it anyway because to me, it's a more about spending time with my friends and doing something together. I don't ever intend to get better at it, and honestly? That's part of the charm to me.</p>
+<p>I mean heck, I'm pretty miserable at web development. I'm much more adept at the server-side of things, setting up routing, handling performance, delivery, and security, that sort of thing. Actually making things? That's a trial if I've ever seen one. Still, I do it for fun and to keep learning something new. That's part of the reason why I pretty much do everything on this site by hand. I used to have a static site generator do it for me, but there's been a cool charm about writing these posts in basic HTML. Sure there are more efficient ways of doing it, but that isn't the point for me. I like being able to see something that I directly wrote turn into something online. It may not be flashy or styled at all, but it's something I've created for the fun of it, and that's all that matters to me.</p>
+<h2>Teach others</h2>
+<p>Another great way to spend your time with hobbies is to teach others just starting out too. And this doesn't even have to be anything super formal! Spending time in your community teaching others, getting to know people with similar interests, it's a great experience. Even something as simple as a mini book club or just checking in to see how someone is doing with their art or writing is enough to keep the hobby flame alive. People want others to take in interest in their favorite activities - it's great seeing them light up when they can talk about it.</p>
+<p>For me, I'm going to keep plugging away at PlainFeeder. I'm also nearly done with Golden Son, the second book in the Red Rising series. I find it hard putting it down, it's so good, and the third book is in the mail now!</p>
+<h3>Let me know your hobbies</h3>
+<p>I'd love to hear what you do for fun. Do you build model planes? Have a miniature train set? Woodworking? Poetry? I love seeing what other people can imagine and create. If you want, send me an email at the link below!</p>
+<p><a href="mailto:mail@chriseldon.com?subject=Reply to: Do it for fun">Reply to this post</a></p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Abandoning Tech</title>
+      <link>https://www.chriseldon.com/blog/2025/10/abandoning-tech.html</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/10/abandoning-tech.html</guid>
+      <description><![CDATA[
+<h1>Abandoning Tech</h1>
+<p>Well, maybe that title isn't quite right.</p>
+<h2>Changing how I use tech</h2>
+<p>There, that's better!</p>
+<p>This year has been a tough one for me, both personally and professionally. I've spent way more time than I would really like to admit working, particularly at the beginning of the year and during the holiday season last year. Lots of really big projects, a recent promotion, basically a never ending stream of work being done and added to the pile. And what would I do to unwind?</p>
+<p>Click the button on my KVM, swap to my gaming PC, and continue using the computer.</p>
+<p>Needless to say, I think I'm about having enough.</p>
+<h3>Being more thoughtful</h3>
+<p>As I've talked about in <a href="https://www.chriseldon.com/blog/2025/09/reading.html">a recent post</a>, I've been getting more into reading, particularly on physical books (and you should check out my <a href="https://www.chriseldon.com/reading.html">reading list</a> too!). It's been a great way for me to focus on something other than my computer and immersing myself in a different world for a little bit. I admit it is nice to have the tiny bit of escape effect it has, but in all honesty, I think the biggest thing for me is I'm starting to slowly lose interest in some of my long term hobbies from over-indulging. And I don't like.</p>
+<p>I've been taking some steps to try to lower my overall tech usage. For starters, I recently bought myself a basic Casio watch to replace my Garmin smartwatch. I thought that tracking my workouts and other health stats would be neat but they did the opposite for me - it just caused me anxiety by constantly monitoring those numbers and wondering why they weren't moving as fast as I wanted them to. I've started taking notes in a physical notebook again too. I DO eventually move them into Obsidian so that I can back them up for long-term safety (especially for my work notes, which is where this practice really shines to solidify thoughts), but pen and paper is so much easier for quickly jotting things down for me. I've also started to set some sane timers for the top apps on my phone. I've even added a widget to the home screen that shows me the top apps by screen time so it's in my face.</p>
+<h3>Building better habits</h3>
+<p>There have been some stumbles along the way this year - I've definitely fallen off the lifting wagon that I was pretty successful with this year, and I've been in a bit of a funk the last few weeks. I need to remind myself that it's all about the incremental progress that gets you to your goal. Nothing is going to happen overnight, and the same can be said with forming good habits and getting rid of old habits. I know a lot of people like to wait until the new year to start their habits but for me, I think that's just pushing the deadline later and giving yourself a reason to delay improvement for another time. The time to improve is now, and that's what I'm going to try to do. Some of my immediate habits and improvements I want to work on are:</p>
+<ul>
+<li>Reduce screen time on my phone by 30 minutes (from 3 hours to 2.5 hours)</li>
+<li>Read at least 1 book every month</li>
+<li>Take more physical notes</li>
+</ul>
+<p>You may look at some of these and go "those are easy why do you need to track this?" Well, it may be easy for some, but habits can be tough to break. I'm starting small on a lot of these because I know that if I set a crazy goal - say, lowering my daily screen time from 3 hours to 15 minutes - I WILL fail and end up worse off for it. These realistic goals are far easier to track and are more realistic to maintain. Maybe I oughta to get some sticky notes to put on my monitor for these!</p>
+<p>If you have any tips or good habits that you've recently started trying to implement in your daily routines, I'd love to hear about them!</p>
+<p><a href="mailto:mail@chriseldon.com?subject=Reply to: Abandoning Tech">Reply to this post</a></p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://www.chriseldon.com/blog/2025/10/homelab.html</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/10/homelab.html</guid>
+      <description><![CDATA[
+<h1>Homelab Setup</h1>
+<p>In a direct contradiction to my <a href="https://www.chriseldon.com/blog/2025/10/abandoning-tech.html">last post</a>, I figured I would write a post about what I use in my current homelab setup. This is inspired by a post I saw by Ian O'Byrne about <a href="https://wiobyrne.com/why-i-built-a-homelab/">why he setup his own</a>, and why you should set yours up too! Definitely worth a read, so give that a look - don't worry, I'll still be here!</p>
+<p>Back? Excellent! Let's get into it :)</p>
+<h2>Some context first</h2>
+<p>Before I get into what I run my homelab on and what I have on it, I thought I'd detail *why* I set this up in the first place. I've been in the tech field for over a decade now and have always had a fascination with the web. That's shifted some in recent years, moving to more intentional uses of my time online, using services that I find ethically and morally more appropriate. Some of that is related to privacy, some of it is related to usability. Where possible though, I've tried to shift away from the big tech giants and more to either my own services that I host locally or services that I pay for that have more of an interest in maintaining usability and privacy, while allowing for my own dataa agency where possible.</p>
+<p>I use this homelab for many things, but one of the nice things is that it gives me the ability to test things out in, well, a lab. I use this for work a lot too - I can quickly spin up a web server, configure it how I need to, and test things out super quickly. I can spin up new services that I want to experiment with, or just poke around with existing things that I've got. The best part is, it's all stored at home on my network. I keep important things backed up (as you should too), but the nice thing is that I have full control over what does and doesn't go on the server.</p>
+<p>Anyway, on to what this post is really about!</p>
+<h3>Homelab Hardware</h3>
+<p>There's quite a bit going into my homelab for something that only has one server haha! Most of it is supporting it, but I also wanted to briefly talk about the networking setup that I use. I switched my home network over to the Ubiquiti Gateway Ultra for router and firewall. We have fiber service through AT&amp;T (just their 500 mbps plan, which typically gets us 620 mbps most days since they overprovision). For most of my use cases, we don't more than that and it's priced pretty well for us. Downstream for that, I have a PoE switch that is hooked up to a myriad of devices. We have network drops in a few places in the house, such as the living room for consoles, bedrooms, and my home office. I was using a Ubiquiti PoE switch too but a lightning strike hit the street right in front of our house and burned it out, even through the UPS/surge protector.</p>
+<p>For wifi, we have two Ubiquiti U6 Lites on either end of the house configured to allow for rapid handoffs rather than meshing. Both are PoE and hooked directly to the switch. We've had no issues so far with connectivity while using these on our mobile devices, they've been pretty great!</p>
+<h4>Server Hardware</h4>
+<p>The server I run at home is mostly composed of old PC parts from a previous gaming build. It's nothing crazy by todays standards but it handles the limited workloads we have very well. It's running in a 4U Rosewill chassis - nothing flashy but I don't dig inside the internals of the server much. The components for the server are as follows:</p>
+<ul>
+<li>Motherboard: Asus Z370-PRO GAMING (like I said, this was an old gaming PC)</li>
+<li>CPU: Intel i5 8600K</li>
+<li>CPU Cooler: Noctua NH-L9 low profile CPU cooler</li>
+<li>Memory: 32 GB DDR4 memory (I can't for the life of me remember what brand or speeds)</li>
+<li>Drives</li>
+<ul>
+<li>2x 480 GB Kingston SSDs (used as cache storage)</li>
+<li>2x 12 TB Seagate Iron Wolf Pro drives (one is a parity drive, another is a data drive)</li>
+<li>3x 8 TB Seagate Iron Wolf Pro drives (data drives)</li>
+<li>1x 6 TB Seagate Iron Wolf Pro drive (data drive)</li>
+</ul>
+<li>900W battery backup</li>
+</ul>
+<p>The server runs <a href="https://unraid.net">Unraid</a>, which allows you to setup a slightly fancier JBOD array, using one or more drives as the parity drive, and everything else being setup as data drives. This is of course simplifying things quite a bit, but that's at least how I think of it. The one key consideration is the parity drive should be the largest drive in the array. Any drive that you add as a data drive should be no larger than the parity, otherwise you'll lose out on available space. With a single parity drive, you can lose any one drive and still recover. Losing two drives, and you'll have data loss (so don't do what I do and only use one parity drive). None of the data that I have (that at least isn't backed up in multiple locations) matters *that* much so I'm not too concerned with it.</p>
+<p>The interesting bit are the two SSDs. Unraid has a concept of cache storage, which is effectively just where files are put to start with. I have these configured in a RAID 1 setup so if I lose one SSD, I don't lose everything on them. You can configure your shares so that some drives write directly to the HDDs while others write first to the SSDs for speedier reads and writes initially, and then over time they are moved to the HDDs. You can also configure the shares to only exist on the cache storage, allowing faster read and write access permanently at the expense of lower available storage. Trade offs for all of your use cases. With the falling prices and increasing capacities of SSDs though, I'm *real* tempted to replace some of the HDDs with SSDs entirely.</p>
+<p>This server sits inside a 12U server rack in my home office. It also houses my brother-in-law's backup server for important files, as well as our Unifi Protect NVR, which stores the videos from our home security cameras. Overall, not much there other than it being nice to keep things locked away in small unit that our pets can't find their way into.</p>
+<h4>Server Software</h4>
+<p>As I mentioned above, this server runs Unraid as the operating system. It's very handy for quickly configuring users, shared storage, and a ton of other things. One of its really cool features though is the ability to run just about whatever Docker containers you would like through the Community Applications plugin that's available. While it doesn't feature support for setting up containers using dockerfiles or anything like that, it does provide a GUI setup for creating containers from community-created images. It's not perfect, but there's a lot of cool stuff available and the community is always adding new things to it. The below are some of the highlights of what I'm running.</p>
+<ul>
+<li>TubeArchivist</li>
+<li>Paperless</li>
+<li>Mealie</li>
+<li>Change Detection</li>
+<li>Nginx Proxy Manager</li>
+<li>Nextcloud</li>
+<li>Syncthing</li>
+<li>FreshRSS</li>
+<li>Kavita</li>
+<li>Pihole</li>
+<li>Redlib</li>
+</ul>
+<p>I won't go into the nitty gritty details for all of these (that's probably worth another post) but here are some quick highlights for the main services.</p>
+<p>TubeArchivist is one of many flavors of YouTube media archiving tools. I use this to save local copies of YouTube videos that I find interesting.</p>
+<p>Paperless is a document storage and indexing tool with really great OCR capabilities. I've been using it this year to keep digital copies of important documents that allows them to be searchable whenever we need them. Very handy, but also something to protect really well too.</p>
+<p>Mealie is a recipe storage tool that allows you to paste a link to a recipe you found online and it will convert the page into a locally stored recipe that you can reference later. We have a ton of recipe links from years ago that just don't work anymore and it would have been so nice to have this running then.</p>
+<p>Change Detection is a tool that lets you monitor URLs. I use it for a couple things at work, such as tracking changes to commonly used packages that have change logs posted online, IP lists that are posted online that update periodically, etc. It also has the ability to check product pages for availability and notify you if it detects an item is available. Hit or miss given the prevalence of bot mitigation tools now though.</p>
+<p>Nginx Proxy Manager is the reverse proxy I use to maintain friendly URLs on the local network. I also run a VPN directly on my router that gives me access to these services at home. No direct access allowed for any of these, it must be either accessed on the local network or from the VPN, nothing else.</p>
+<p>Nextcloud is a replacement for things like Google Drive or OneDrive. For a long time it's been pretty great but I've been running into gremlins with it lately, particularly with mobile device syncing. I've been trying out Syncthing instead, which I think of as kind of like a mesh-style syncing platform where you connect your devices together and when they are able to connect, can quickly sync content on available folders that you define. I'm still trying this one out but so far it's been incredibly nice with my Obsidian notes. I want to start expanding this further.</p>
+<p>FreshRSS is my RSS platform of choice. I've been running this for a couple years now and let it update my feeds twice a day. I hook it up with Readrops on my Android phone for syncing feeds or adding new feeds that I find when I'm out and about.</p>
+<p>Kavita is my ebook reader that I use periodically. I haven't been reading many ebooks here lately but I have a lot of them from Humble Bundle deals I've picked up over the years. The interface can be kind of confusing at first but once you have your library setup, it's not too bad. I use it through a browser while connected on VPN on my phone and put it in full screen mode, works really well.</p>
+<p>Pihole is a DNS-level ad and telemetry blocking tool. Honestly, I don't think I'll *ever* run a home network without this. It's insane how many ads and tracking scripts are out there that this blocks.</p>
+<p>Redlib is a Reddit frontend that doesn't let you comment or interact with Reddit much, but it lets you browse and "subscribe" to subreddits locally without having an account. It's much snappier than Reddit itself is and doesn't have any of the other crappy stuff. And since you can't comment or anything, you also aren't as likely to get drawn into online fights lol.</p>
+<h3>That's about it</h3>
+<p>I'm sure there are some things I'm missing, but that should about cover most of it. I love reading about what other people use their homelabs for. I admittedly don't use mine for much other than a media streaming tool and file storage, but it does help me get away from the bigger services and put myself in control of my data. Do you have any suggestions for what I should setup next? Want to share your own setups? Shoot me a message, my inbox is open any time :)</p>
+<p><a href="mailto:mail@chriseldon.com?subject=Reply to: Homelab">Reply to this post</a></p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>New Keyboard</title>
+      <link>https://www.chriseldon.com/blog/2025/10/new-keyboard.html</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2025/10/new-keyboard.html</guid>
+      <description><![CDATA[
+<h1>New Keyboard</h1>
+<p>I got myself a new keyboard yesterday! If you are interested in seeing what it looks likes on their website, you can find that <a href="https://ergodox-ez.com/buy">here</a>. I've been using split keyboards for a number of years now but never anything like this. As I type this, I'm using the new keyboard. For right now, it's kind of painful; not in the physical sense but more on the fact that I am basically having to completely retrain how I type. It's not going to be an overnight thing after typing on fairly regular QWERTY keyboards for a little over 2 decades. My overall accuracy is obviously way down right now because things are in a different layout (particularly, the columnar layout is throwing me off at the moment) and my overall speed is WAY down by comparison. I'm going to keep this post fairly short but will update in a couple weeks once I've had a chance to properly give this a fair chance.</p>
+<p>I know the price is likely going to put a lot of people off of it too, which is fair. It's certainly not cheap by any stretch of the imagination. It does feel really nice though and once I get used to the layout and my typing speed and accuracy return, I think this will be a great improvement over what I had previously. The biggest thing for me right now is to focus on building up the new muscle memory with this one and working my way back. Considering I spend a good chunk of my day typing, my hope is that won't take too long.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>I'm Back!</title>
+      <link>https://www.chriseldon.com/blog/2026/03/im-back.html</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2026/03/im-back.html</guid>
+      <description><![CDATA[
+<h1>I'm Back!</h1>
+<p>Yeah so like, I haven't updated this in awhile. I've been away dealing with some health struggles with some of our pets. On the whole, everyone is doing ok now, but such is life with aging pets unfortunately.</p>
+<p>I've been kept pretty busy on the work front. I've been learning a lot about Terraform and how I can use it to speed up customer integrations and changes. I'm working on some other quality of life scripts that I have found to be incredibly useful as well, for things like testing websites and maintaining test scripts. I've got a few more reporting items I want to work on to streamline lookups too, a lot in the pipeline. It's shaping up to be an exciting year I think.</p>
+<p>Around the house, I've got myself setup in a new room, so I'm no longer working out of our dining room! Fresh floors put down, new baseboard, and even moved our server rack and installed some new ethernet ports. It's a much cozier setup and should help keep work life separate from everything else, which can be a struggle with remote work for sure. Way too easy to fall into the trap of "Oh I'll just check on things *3 hours later*."</p>
+<p>Anyway, I don't have much in the way of specific content planned for this site, but I guess that's kind of the point. This place isn't about content but just what I'm thinking when I have the time available to myself. I'd like to get things posted more regularly but we'll see how that goes. Anyway, hope you all have a wonderful weekend (or whatever day it is when you are reading this!)</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>We bought a 2026 Honda Civic Sport Hybrid</title>
+      <link>https://www.chriseldon.com/blog/2026/06/civic.html</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2026/06/civic.html</guid>
+      <description><![CDATA[
+<h1 id="title">We bought a 2026 Honda Civic Sport Hybrid</h1>
+<p>I mentioned it in my most recent <a href="https://www.chriseldon.com/now.html">/now</a> update, but we just recently bought a new car! It's a 2026 Honda Civic Sport Hybrid Sedan in Rallye Red (say that three times fast). This is our first brand new car and to be honest, that does feel a little weird, and maybe a little gross. But we've had a go of it for the last few years, but we're very thankful to be in a place where this was something we are able to afford with minimal financing. Here's a picture of it!</p>
+<img alt="Photo of the front of a 2026 Honda Civic Sport Hybrid Sedan in the Rallye Red color" decoding="async" height="816" loading="lazy" src="https://www.chriseldon.com/images/civic.jpg" width="614"/>
+<p>We've put a little over 250 miles on the car so far, averaging around 45 miles per gallon. It definitely doesn't perform like what you would expect a typical hybrid to do. Because it is driven primarily by an electric motor (and can technically be driven solely by that motor up to 80 miles per hour or so), it has the instant torque and speed pickup similar to traditional EVs. In typical city driving, the combustion engine is just there to act mainly as a generator, keeping the hybrid battery system charged up, alongside the regenerative charging you get from applying the brakes or with the paddle selectors, which don't change gears (this car doesn't have "gears" anyway). The paddle selectors actually control how much to apply the regenerative energy capture without having to press on the brake pedal. This is great for maintaining speed when going down hills without using the brakes, or if you don't have anyone behind you and want to slow down and recapture as much energy as possible. The only concern I have with using the paddles is in traffic - I'm not sure they activate the brake lights like the pedal does, so cars behind me have no idea I'm slowing down more than a typical car would when letting off the accelerator.</p>
+<p>Anyway, we still have around 350 miles or so in the break-in period according to the owner's manual, so we're not doing anything too aggressive with it. I've seen YouTube videos that show this car can go 0-60 miles per hour in roughly 7 seconds though. Not incredibly fast, but also not sluggish either, especially given the typical stigma hybrids usually get for performance.</p>
+<p>I think the thing I like the most about the car though is the Android Auto and Apply CarPlay setup. I've never had a vehicle with this and it works really well. We didn't get the model that has wireless versions of those, so we have to plug our phones in for it to work, but I'm fine with that - it at least lets the phone charge at the same time. The system has been very snappy, the screen is a decent size without feeling like a tablet is in your face, and it's not distracting. There are also physical controls for all of the things that you typically use most, like adjusting AC, mirrors, drive mode settings, and well laid out steering wheel controls. It's a great mix of having things you don't need to adjust frequently in a menu versus things that you need to be able to adjust without looking being readily available. I really like it.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Building</title>
+      <link>https://www.chriseldon.com/blog/2026/07/building.html</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2026/07/building.html</guid>
+      <description><![CDATA[
+<h1 id="title">Building</h1>
+<p>Having a bit of a problem with figuring out what I want to make. I used to be much more creative than I am now. Mostly drawing. I was never particularly great at it but it was always a passion of mine, right up until I finished high school. I don't know what happened. Maybe it was the IB program I was in requiring an Art course that took it out of me. Maybe life just got busy.</p>
+<p>If you follow my RSS feed, I'm sure you've seen a bunch of my posts come up and back again. Apologies for that! That's part of my process here too, trying to figure out what I want to do with my site some more. I was playing around with WordPress but I think I'm just going to leave my site as-is and if I do want to make changes, figure out how to do it myself. Besides, I kind of like this aesthetic anyway.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Setbacks</title>
+      <link>https://www.chriseldon.com/blog/2026/07/setbacks.html</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2026/07/setbacks.html</guid>
+      <description><![CDATA[
+<h1 id="title">Setbacks</h1>
+<p>Life sure does have a way of making you feel a bit down, eh?</p>
+<p>That's where I'm at right now. I've absolutely fallen back into the trap of feeling like I'm not quite in control again and wondering where the time is going. I've found myself staring into the void that is my phone, which is quite honestly, not surprising. It's way too easy to just open a browser or an app and effectively time travel. Before you know it, you've scrolled through countless posts, watched way too many shorts, and realized you feel worse after that 3 hour binge than you did before.</p>
+<p>I've been trying to get back to how I was working on things late last year, but it's been challenging for a bit. It's a learning process though, and the learning never stops. I've installed a <a href="https://play.google.com/store/apps/details?id=app.olauncher">minimal launcher (Android only, sorry iPhone users)</a> on my phone that just has links to some essential apps - one of the cool features about it is it lets you rename the link to the app. So for example, instead of Firefox, I just have it say Web. I put a black background, white text, and have a quick toggle to a greyscale mode that I can use to turn off when I need to see colors on the phone, but otherwise, it helps to make it more boring. It also has a screen time usage number right on the main view, so you can always see how long you've been using the phone. I'm still on the fence about this one - it's honestly a little depressing right now.</p>
+<p>I've been getting back into reading as well! I'm about 30% of the way through the third Dungeon Crawler Carl book, and also nearly done with the Extraction series after reading a nice review of it <a href="https://kevquirk.com/extracted">here from Kev</a>. I've been loving this series, it's got enough fast paced action and world building to keep me entertained. I'll probably be moving on to <a href="https://hardcover.app/books/the-last-ship">The Last Ship</a> next. I've been rewatching the show since it came back to Netflix and while yes, it's absolutely a product of its time, with its overt jingoism and "just in time" approach to the main characters getting out of danger, it's also a weird comfort show for me.</p>
+<p>I've been trying to find things that I actually like working on at work too. I was recently added to a global automation initiative, which has been a great opportunity so far, but it almost immediately got put on hold due to the leaders of the group going on a three week vacation. We'll get back at it soon, but it looks like really interesting work - that's where I want to be at again. Less "just do the thing" and more "make your brain work" stuff.</p>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+    <item>
+      <title>Renew</title>
+      <link>https://www.chriseldon.com/blog/2026/09/renew.html</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0400</pubDate>
+      <author>mail@chriseldon.com (Chris Eldon)</author>
+      <guid>https://www.chriseldon.com/blog/2026/09/renew.html</guid>
+      <description><![CDATA[
+<h1 id="title">Renew</h1>
+<p>How's it going? It's been nearly two months since I've last posted. I don't really have much to talk about here, but I do like keeping this somewhat up to date. Here's how things are going at the moment.</p>
+<ul>
+<li>Went to a concert with my best friend, got to hear some really cool bands. If you like nu-metal, definitely check out a band called <a href="https://open.spotify.com/artist/3eHb8FXIjOQhGUzlNDR849?si=9TSy4VoNQX2CXd53dCJsWQ">Mulch</a>. <a href="https://open.spotify.com/artist/2bfJmhGNOGcEiY3rdzGgAE?si=rCrgUyJrQ-uokGj_xB2u6w">Black Heart Society</a> was also *really* good.</li>
+<li>Work has been busier than ever. Hopefully as the holiday season starts to pick up, things will slow down soon. I hope I don't eat those words.</li>
+<li>We had a massive oak tree removed from our backyard (I'll put a picture below). It was sad to see it go, but according to the arborist, it was definitely in the process of dying and was becoming a danger to not only our house, but also our neighbors.</li>
+<li>Got to visit my parents and brother and see my niece and nephew. It was a good time, although as is often the case, way too short.</li>
+<li>Reading Children of Time, about 70% through with this. This book did NOT go where I thought it would but I've been having to force myself to put it down so I can sleep, it's so good.</li>
+</ul>
+<p>Here's the tree before and after, plus the pile of wood chippings left behind. It's something alright.</p>
+<img alt="Photo of the oak tree in our back yard" decoding="async" height="816" loading="lazy" src="https://www.chriseldon.com/images/tree_before.jpg" width="614"/>
+<img alt="Photo of the oak tree stump in our back yard" decoding="async" height="816" loading="lazy" src="https://www.chriseldon.com/images/tree_after.jpg" width="614"/>
+<img alt="Photo of the stump grinder doing its job on the oak tree stump" decoding="async" height="816" loading="lazy" src="https://www.chriseldon.com/images/stump_grinding.jpg" width="614"/>
+<img alt="Photo of the pile of mulch left behind from the stump grinding" decoding="async" height="816" loading="lazy" src="https://www.chriseldon.com/images/mulch_pile.jpg" width="614"/>
+<p>Thanks for reading this post through an RSS reader and keeping the small web alive!</p>]]></description>
+    </item>
+  </channel>
+</rss>

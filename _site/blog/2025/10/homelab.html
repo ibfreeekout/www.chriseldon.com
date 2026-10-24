@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homelab | Random Musings</title>
+        <!--#include file="/includes/head.html"-->
+    </head>
+    <body>
+        <!--#include file="/includes/header.html"-->
+        <main>
+			<h1>Homelab Setup</h1>
+            <p>In a direct contradiction to my <a href="https://www.chriseldon.com/blog/2025/10/abandoning-tech.html">last post</a>, I figured I would write a post about what I use in my current homelab setup. This is inspired by a post I saw by Ian O'Byrne about <a href="https://wiobyrne.com/why-i-built-a-homelab/">why he setup his own</a>, and why you should set yours up too! Definitely worth a read, so give that a look - don't worry, I'll still be here!</p>
+            <p>Back? Excellent! Let's get into it :)</p>
+            <h2>Some context first</h2>
+            <p>Before I get into what I run my homelab on and what I have on it, I thought I'd detail *why* I set this up in the first place. I've been in the tech field for over a decade now and have always had a fascination with the web. That's shifted some in recent years, moving to more intentional uses of my time online, using services that I find ethically and morally more appropriate. Some of that is related to privacy, some of it is related to usability. Where possible though, I've tried to shift away from the big tech giants and more to either my own services that I host locally or services that I pay for that have more of an interest in maintaining usability and privacy, while allowing for my own dataa agency where possible.</p>
+            <p>I use this homelab for many things, but one of the nice things is that it gives me the ability to test things out in, well, a lab. I use this for work a lot too - I can quickly spin up a web server, configure it how I need to, and test things out super quickly. I can spin up new services that I want to experiment with, or just poke around with existing things that I've got. The best part is, it's all stored at home on my network. I keep important things backed up (as you should too), but the nice thing is that I have full control over what does and doesn't go on the server.</p>
+            <p>Anyway, on to what this post is really about!</p>
+            <h3>Homelab Hardware</h3>
+            <p>There's quite a bit going into my homelab for something that only has one server haha! Most of it is supporting it, but I also wanted to briefly talk about the networking setup that I use. I switched my home network over to the Ubiquiti Gateway Ultra for router and firewall. We have fiber service through AT&T (just their 500 mbps plan, which typically gets us 620 mbps most days since they overprovision). For most of my use cases, we don't more than that and it's priced pretty well for us. Downstream for that, I have a PoE switch that is hooked up to a myriad of devices. We have network drops in a few places in the house, such as the living room for consoles, bedrooms, and my home office. I was using a Ubiquiti PoE switch too but a lightning strike hit the street right in front of our house and burned it out, even through the UPS/surge protector.</p>
+            <p>For wifi, we have two Ubiquiti U6 Lites on either end of the house configured to allow for rapid handoffs rather than meshing. Both are PoE and hooked directly to the switch. We've had no issues so far with connectivity while using these on our mobile devices, they've been pretty great!</p>
+            <h4>Server Hardware</h4>
+            <p>The server I run at home is mostly composed of old PC parts from a previous gaming build. It's nothing crazy by todays standards but it handles the limited workloads we have very well. It's running in a 4U Rosewill chassis - nothing flashy but I don't dig inside the internals of the server much. The components for the server are as follows:</p>
+            <ul>
+                <li>Motherboard: Asus Z370-PRO GAMING (like I said, this was an old gaming PC)</li>
+                <li>CPU: Intel i5 8600K</li>
+                <li>CPU Cooler: Noctua NH-L9 low profile CPU cooler</li>
+                <li>Memory: 32 GB DDR4 memory (I can't for the life of me remember what brand or speeds)</li>
+                <li>Drives</li>
+                <ul>
+                    <li>2x 480 GB Kingston SSDs (used as cache storage)</li>
+                    <li>2x 12 TB Seagate Iron Wolf Pro drives (one is a parity drive, another is a data drive)</li>
+                    <li>3x 8 TB Seagate Iron Wolf Pro drives (data drives)</li>
+                    <li>1x 6 TB Seagate Iron Wolf Pro drive (data drive)</li>
+                </ul>
+                <li>900W battery backup</li>
+            </ul>
+            <p>The server runs <a href="https://unraid.net">Unraid</a>, which allows you to setup a slightly fancier JBOD array, using one or more drives as the parity drive, and everything else being setup as data drives. This is of course simplifying things quite a bit, but that's at least how I think of it. The one key consideration is the parity drive should be the largest drive in the array. Any drive that you add as a data drive should be no larger than the parity, otherwise you'll lose out on available space. With a single parity drive, you can lose any one drive and still recover. Losing two drives, and you'll have data loss (so don't do what I do and only use one parity drive). None of the data that I have (that at least isn't backed up in multiple locations) matters *that* much so I'm not too concerned with it.</p>
+            <p>The interesting bit are the two SSDs. Unraid has a concept of cache storage, which is effectively just where files are put to start with. I have these configured in a RAID 1 setup so if I lose one SSD, I don't lose everything on them. You can configure your shares so that some drives write directly to the HDDs while others write first to the SSDs for speedier reads and writes initially, and then over time they are moved to the HDDs. You can also configure the shares to only exist on the cache storage, allowing faster read and write access permanently at the expense of lower available storage. Trade offs for all of your use cases. With the falling prices and increasing capacities of SSDs though, I'm *real* tempted to replace some of the HDDs with SSDs entirely.</p>
+            <p>This server sits inside a 12U server rack in my home office. It also houses my brother-in-law's backup server for important files, as well as our Unifi Protect NVR, which stores the videos from our home security cameras. Overall, not much there other than it being nice to keep things locked away in small unit that our pets can't find their way into.</p>
+            <h4>Server Software</h4>
+            <p>As I mentioned above, this server runs Unraid as the operating system. It's very handy for quickly configuring users, shared storage, and a ton of other things. One of its really cool features though is the ability to run just about whatever Docker containers you would like through the Community Applications plugin that's available. While it doesn't feature support for setting up containers using dockerfiles or anything like that, it does provide a GUI setup for creating containers from community-created images. It's not perfect, but there's a lot of cool stuff available and the community is always adding new things to it. The below are some of the highlights of what I'm running.</p>
+            <ul>
+                <li>TubeArchivist</li>
+                <li>Paperless</li>
+                <li>Mealie</li>
+                <li>Change Detection</li>
+                <li>Nginx Proxy Manager</li>
+                <li>Nextcloud</li>
+                <li>Syncthing</li>
+                <li>FreshRSS</li>
+                <li>Kavita</li>
+                <li>Pihole</li>
+                <li>Redlib</li>
+            </ul>
+            <p>I won't go into the nitty gritty details for all of these (that's probably worth another post) but here are some quick highlights for the main services.</p>
+            <p>TubeArchivist is one of many flavors of YouTube media archiving tools. I use this to save local copies of YouTube videos that I find interesting.</p>
+            <p>Paperless is a document storage and indexing tool with really great OCR capabilities. I've been using it this year to keep digital copies of important documents that allows them to be searchable whenever we need them. Very handy, but also something to protect really well too.</p>
+            <p>Mealie is a recipe storage tool that allows you to paste a link to a recipe you found online and it will convert the page into a locally stored recipe that you can reference later. We have a ton of recipe links from years ago that just don't work anymore and it would have been so nice to have this running then.</p>
+            <p>Change Detection is a tool that lets you monitor URLs. I use it for a couple things at work, such as tracking changes to commonly used packages that have change logs posted online, IP lists that are posted online that update periodically, etc. It also has the ability to check product pages for availability and notify you if it detects an item is available. Hit or miss given the prevalence of bot mitigation tools now though.</p>
+            <p>Nginx Proxy Manager is the reverse proxy I use to maintain friendly URLs on the local network. I also run a VPN directly on my router that gives me access to these services at home. No direct access allowed for any of these, it must be either accessed on the local network or from the VPN, nothing else.</p>
+            <p>Nextcloud is a replacement for things like Google Drive or OneDrive. For a long time it's been pretty great but I've been running into gremlins with it lately, particularly with mobile device syncing. I've been trying out Syncthing instead, which I think of as kind of like a mesh-style syncing platform where you connect your devices together and when they are able to connect, can quickly sync content on available folders that you define. I'm still trying this one out but so far it's been incredibly nice with my Obsidian notes. I want to start expanding this further.</p>
+            <p>FreshRSS is my RSS platform of choice. I've been running this for a couple years now and let it update my feeds twice a day. I hook it up with Readrops on my Android phone for syncing feeds or adding new feeds that I find when I'm out and about.</p>
+            <p>Kavita is my ebook reader that I use periodically. I haven't been reading many ebooks here lately but I have a lot of them from Humble Bundle deals I've picked up over the years. The interface can be kind of confusing at first but once you have your library setup, it's not too bad. I use it through a browser while connected on VPN on my phone and put it in full screen mode, works really well.</p>
+            <p>Pihole is a DNS-level ad and telemetry blocking tool. Honestly, I don't think I'll *ever* run a home network without this. It's insane how many ads and tracking scripts are out there that this blocks.</p>
+            <p>Redlib is a Reddit frontend that doesn't let you comment or interact with Reddit much, but it lets you browse and "subscribe" to subreddits locally without having an account. It's much snappier than Reddit itself is and doesn't have any of the other crappy stuff. And since you can't comment or anything, you also aren't as likely to get drawn into online fights lol.</p>
+            <h3>That's about it</h3>
+            <p>I'm sure there are some things I'm missing, but that should about cover most of it. I love reading about what other people use their homelabs for. I admittedly don't use mine for much other than a media streaming tool and file storage, but it does help me get away from the bigger services and put myself in control of my data. Do you have any suggestions for what I should setup next? Want to share your own setups? Shoot me a message, my inbox is open any time :)</p>
+            <p><a href="mailto:mail@chriseldon.com?subject=Reply to: Homelab">Reply to this post</a></p>
+        </main>
+        <!--#include file="/includes/footer.html"-->
+    </body>
+</html>
