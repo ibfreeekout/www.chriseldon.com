@@ -37,3 +37,9 @@ Once you have confirmed the files have been updated successfully, you can simply
 ### Security Notes
 
 This script is by no means intended to be used to accept arbitrary data from anyone other than the owner of a website that would like to use this. Given that it does explicit string replacements, it is theoretically possible for the script to inject just about anything you want based on how it is written. As the owner of your site, it is your responsibility to understand how this code functions and what it is modifying before you run this and upload files to your web host.
+
+#### LLM Development notes
+
+This script was written with the assistance of GitHub Copilot, as well as with experimentation using a locally run qwen3.5:4b model with Ollama.
+
+All post content that makes its way to the public facing website, which includes any and all text - unless otherwise noted and properly sourced in the body of the pages - is the sole creation of me. I do not and will not  use LLMs to generate or assist with writing blog post content or other copy that is intended as human readable output.
